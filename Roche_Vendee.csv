@@ -1,0 +1,299 @@
+Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;Capitaine;Starter;A. Suarez-Utrero;28;12;0,2;28,2;5;7;0,714285714;3;4;0,75;2;3;0,666666667;2;2;1;;;;;;;;14;1;7;8;12;4;2;0;0;3;3;-6;30;1;A. Suarez-Utrero(C)
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Starter;S. Wallace;25;45;0,75;25,75;2;11;0,181818182;2;5;0,4;0;6;0;0;0;;;;;;;;;4;2;1;3;4;2;1;0;0;3;2;-32;1;13;S. Wallace
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Starter;A. Kone;29;2;0,03;29,03;7;9;0,777777778;7;9;0,777777778;0;0;;2;3;0,666666667;;;;;;;;16;4;6;10;1;1;0;1;0;2;3;-19;24;18;A. Kone
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Starter;T. Clarke;27;9;0,15;27,15;6;9;0,666666667;6;9;0,666666667;0;0;;4;5;0,8;;;;;;;;16;2;4;6;1;2;1;0;0;2;3;-1;18;34;T. Clarke
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Starter;V. Gomis;29;11;0,18;29,18;4;10;0,4;2;6;0,333333333;2;4;0,5;4;4;1;;;;;;;;14;0;0;0;2;2;1;0;1;1;3;-9;9;75;V. Gomis
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Banc;C. Savoy;4;59;0,98;4,98;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;1;0;1;0;4;C. Savoy
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Banc;N. Zonzon;12;45;0,75;12,75;1;4;0,25;1;3;0,333333333;0;1;0;0;0;;;;;;;;;2;0;0;0;0;0;0;0;0;3;0;-1;-1;9;N. Zonzon
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Banc;J. Adams;19;9;0,15;19,15;1;7;0,142857143;1;4;0,25;0;3;0;4;4;1;;;;;;;;6;0;2;2;2;0;2;0;1;3;3;8;6;24;J. Adams
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Banc;S. Ousfar;23;49;0,82;23,82;3;7;0,428571429;1;1;1;2;6;0,333333333;0;0;;;;;;;;;8;0;6;6;4;2;0;3;0;2;1;-6;15;28;S. Ousfar
+1/8 de finale;Coupe de France;Exterieur;Defaite;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;29;65;0,446153846;23;41;0,56097561;6;24;0,25;16;18;0,888888889;14;36;8;17;16;7;14;80;10;29;39;26;14;7;4;2;20;18;0;104;;TOTAUX EQUIPE
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;Capitaine;Starter;A. Suarez-Utrero;36;14;0,23;36,23;3;11;0,272727273;1;6;0,166666667;2;5;0,4;3;3;1;;;;;;;;11;0;3;3;8;2;2;0;1;1;5;7;14;1;A. Suarez-Utrero(C)
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;A. Kone;27;56;0,93;27,93;8;13;0,615384615;7;11;0,636363636;1;2;0,5;3;3;1;;;;;;;;20;2;0;2;1;3;1;0;0;4;4;1;16;18;A. Kone
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;J. Adams;35;43;0,72;35,72;2;9;0,222222222;0;5;0;2;4;0,5;0;0;;;;;;;;;6;1;7;8;2;7;3;1;0;2;0;4;6;24;J. Adams
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;L. Preneau;27;44;0,73;27,73;0;7;0;0;4;0;0;3;0;2;2;1;;;;;;;;2;1;3;4;4;3;2;0;1;3;2;2;2;27;L. Preneau
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;T. Clark;33;46;0,77;33,77;7;16;0,4375;7;16;0,4375;0;0;;3;7;0,428571429;;;;;;;;17;8;5;13;2;1;5;1;0;1;5;12;24;34;T. Clark
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;N. Zonzon;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;N. Zonzon
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;S. Wallace;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;13;S. Wallace
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;S. Ousfar;18;18;0,3;18,3;3;6;0,5;2;4;0,5;1;2;0,5;0;0;;;;;;;;;7;3;3;6;2;0;1;0;0;3;0;3;13;28;S. Ousfar
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;V. Gomis;20;19;0,32;20,32;1;4;0,25;0;1;0;1;3;0,333333333;0;0;;;;;;;;;3;1;1;2;1;3;1;0;1;2;1;11;1;75;V. Gomis
+1;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;24;66;0,363636364;17;47;0,361702128;7;19;0,368421053;11;15;0,733333333;24;32;17;7;10;11;10;66;17;26;43;20;19;15;2;3;16;17;0;81;;TOTAUX EQUIPE
+2;Championat de France;Exterieur;Defaite;Basket Landes;Capitaine;Starter;A. Suarez Utrero;30;8;0,13;30,13;2;7;0,285714286;1;4;0,25;1;3;0,333333333;0;0;;;;;;;;;5;0;0;0;5;5;1;0;0;2;0;-34;1;1;A. Suarez Utrero(C)
+2;Championat de France;Exterieur;Defaite;Basket Landes;;Starter;A. Kone;26;1;0,02;26,02;4;9;0,444444444;4;9;0,444444444;0;0;;0;0;;;;;;;;;8;1;1;2;4;3;0;0;0;2;2;-19;6;18;A. Kone
+2;Championat de France;Exterieur;Defaite;Basket Landes;;Starter;J. Adams;26;23;0,38;26,38;1;6;0,166666667;1;4;0,25;0;2;0;2;2;1;;;;;;;;4;3;5;8;1;3;1;0;1;4;2;-29;6;24;J. Adams
+2;Championat de France;Exterieur;Defaite;Basket Landes;;Starter;L. Preneau;32;36;0,6;32,6;4;7;0,571428571;3;4;0,75;1;3;0,333333333;1;2;0,5;;;;;;;;10;0;1;1;0;2;2;0;0;1;3;-25;7;27;L. Preneau
+2;Championat de France;Exterieur;Defaite;Basket Landes;;Starter;T. Clarke;27;27;0,45;27,45;4;11;0,363636364;4;11;0,363636364;0;0;;0;0;;;;;;;;;8;3;4;7;1;0;0;1;0;3;0;-33;10;34;T. Clarke
+2;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;C. Savoy;4;14;0,23;4,23;1;2;0,5;0;1;0;1;1;1;0;0;;;;;;;;;3;0;0;0;0;1;0;0;0;0;0;-5;1;0;C. Savoy
+2;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;N. Zonzon;6;23;0,38;6,38;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;1;1;0;2;0;-2;1;9;N. Zonzon
+2;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;S. Ousfar;24;5;0,08;24,08;3;9;0,333333333;2;3;0,666666667;1;6;0,166666667;1;1;1;;;;;;;;8;0;4;4;1;1;0;1;0;3;2;-22;7;28;S. Ousfar
+2;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;V. Gomis;22;42;0,7;22,7;2;10;0,2;2;7;0,285714286;0;3;0;2;2;1;;;;;;;;6;2;1;3;2;7;0;0;2;2;2;-16;-4;75;V. Gomis
+2;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;21;62;0,338709677;17;44;0,386363636;4;18;0,222222222;6;7;0,857142857;17;28;9;5;17;;7;52;10;19;29;14;23;5;3;3;19;11;0;38;;TOTAUX EQUIPE
+3;Championat de France;Domicile;Victoire;Landerneau;Capitaine;Starter;A. Suarez Utrero;31;2;0,03;31,03;7;12;0,583333333;2;4;0,5;5;8;0,625;2;2;1;;;;;;;;21;1;4;5;2;4;1;0;1;4;3;9;20;1;A. Suarez Utrero(C)
+3;Championat de France;Domicile;Victoire;Landerneau;;Starter;A. Kone;29;30;0,5;29,5;3;9;0,333333333;2;7;0,285714286;1;2;0,5;4;4;1;;;;;;;;11;1;3;4;3;3;2;1;1;1;2;13;12;18;A. Kone
+3;Championat de France;Domicile;Victoire;Landerneau;;Starter;J. Adams;26;14;0,23;26,23;3;6;0,5;2;5;0,4;1;1;1;3;4;0,75;;;;;;;;10;1;6;7;1;2;1;0;0;3;2;15;13;24;J. Adams
+3;Championat de France;Domicile;Victoire;Landerneau;;Starter;L. Preneau;23;21;0,35;23,35;1;5;0,2;0;3;0;1;2;0,5;1;4;0,25;;;;;;;;4;2;2;4;3;2;2;0;1;1;2;-9;4;27;L. Preneau
+3;Championat de France;Domicile;Victoire;Landerneau;;Starter;T. Clarke;30;20;0,33;30,33;4;9;0,444444444;4;9;0,444444444;0;0;;4;4;1;;;;;;;;12;3;4;7;2;2;1;1;0;1;4;6;16;34;T. Clarke
+3;Championat de France;Domicile;Victoire;Landerneau;;Banc;C. Dako;0;19;0,32;0,32;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;C. Dako
+3;Championat de France;Domicile;Victoire;Landerneau;;Banc;A. Bawara;0;19;0,32;0,32;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;A. Bawara
+3;Championat de France;Domicile;Victoire;Landerneau;;Banc;N. Zonzon;0;19;0,32;0,32;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;N. Zonzon
+3;Championat de France;Domicile;Victoire;Landerneau;;Banc;S. Wallace;10;47;0,78;10,78;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;1;1;1;1;2;0;0;3;1;-5;1;13;S. Wallace
+3;Championat de France;Domicile;Victoire;Landerneau;;Banc;S. Ousfar;19;32;0,53;19,53;1;2;0,5;1;1;1;0;1;0;1;2;0,5;;;;;;;;3;0;4;4;1;1;0;0;0;1;2;1;5;28;S. Ousfar
+3;Championat de France;Domicile;Victoire;Landerneau;;Banc;V. Gomis;28;17;0,28;28,28;6;12;0,5;4;7;0,571428571;2;5;0,4;7;9;0,777777778;;;;;;;;21;1;2;3;1;2;1;0;1;2;7;20;16;75;V. Gomis
+3;Championat de France;Domicile;Victoire;Landerneau;;Banc;TOTAUX EQUIPE;;;;;25;57;0,438596491;15;37;0,405405405;10;20;0,5;22;29;0,75862069;15;22;7;27;24;10;10;82;14;30;44;14;17;10;2;4;16;23;0;96;;TOTAUX EQUIPE
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;Capitaine;Starter;A. Suarez Utrero;26;28;0,47;26,47;4;8;0,5;2;3;0,666666667;2;5;0,4;0;0;;;;;;;;;10;0;1;1;6;2;1;0;0;3;0;-19;12;4;A. Suarez Utrero(C)
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;A. Kone;22;47;0,78;22,78;1;8;0,125;1;7;0,142857143;0;1;0;1;2;0,5;;;;;;;;3;0;3;3;2;3;1;0;1;4;2;-17;-2;18;A. Kone
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;J. Adams;25;12;0,2;25,2;1;6;0,166666667;1;5;0,2;0;1;0;0;0;;;;;;;;;2;0;3;3;1;1;0;0;1;2;3;-15;0;24;J. Adams
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;L. Preneau;24;53;0,88;24,88;4;5;0,8;4;4;1;0;1;0;1;3;0,333333333;;;;;;;;9;0;3;3;3;2;0;0;0;4;3;-19;10;27;L. Preneau
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;T. Clarke;31;36;0,6;31,6;10;17;0,588235294;10;17;0,588235294;0;0;;2;5;0,4;;;;;;;;22;1;7;8;0;2;2;3;0;3;7;-22;23;34;T. Clarke
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;C. Savoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;C. Savoy
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;S. Wallace;21;17;0,28;21,28;2;11;0,181818182;2;7;0,285714286;0;4;0;3;4;0,75;;;;;;;;7;1;1;2;0;2;1;0;0;3;5;-15;-2;13;S. Wallace
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;S. Ousfar;25;37;0,62;25,62;2;6;0,333333333;2;3;0,666666667;0;3;0;1;2;0,5;;;;;;;;5;0;6;6;3;0;1;0;0;3;1;-11;10;28;S. Ousfar
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;V. Gomis;22;10;0,17;22,17;1;6;0,166666667;1;4;0,25;0;2;0;2;4;0,5;;;;;;;;4;0;1;1;0;2;1;0;0;1;2;-7;-3;75;V. Gomis
+4;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;25;67;0,373134328;23;50;0,46;2;17;0,117647059;10;20;0,5;17;36;0;2;16;;7;62;6;26;32;15;14;7;3;2;23;23;0;53;;TOTAUX EQUIPE
+5;Championat de France;Domicile;Defaite;Charnay;Capitaine;Starter;A. Suarez Utrero;31;57;0,95;31,95;3;7;0,428571429;2;3;0,666666667;1;4;0,25;3;3;1;;;;;;;;10;0;4;4;4;8;0;0;0;2;2;-17;6;1;A. Suarez Utrero(C)
+5;Championat de France;Domicile;Defaite;Charnay;;Starter;S. Wallace;26;39;0,65;26,65;2;11;0,181818182;1;7;0,142857143;1;4;0,25;2;2;1;;;;;;;;7;3;4;7;2;6;1;0;2;2;2;-16;2;13;S. Wallace
+5;Championat de France;Domicile;Defaite;Charnay;;Starter;A. Kone;25;4;0,07;25,07;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;5;5;2;2;0;1;0;3;1;-17;5;18;A. Kone
+5;Championat de France;Domicile;Defaite;Charnay;;Starter;T. Clarke;31;49;0,82;31,82;9;13;0,692307692;9;12;0,75;0;1;0;8;12;0,666666667;;;;;;;;26;3;6;9;2;1;2;2;0;2;9;-18;32;34;T. Clarke
+5;Championat de France;Domicile;Defaite;Charnay;;Starter;V. Gomis;23;8;0,13;23,13;1;4;0,25;1;1;1;0;3;0;0;0;;;;;;;;;2;0;0;0;1;2;0;0;0;1;1;-13;-2;75;V. Gomis
+5;Championat de France;Domicile;Defaite;Charnay;;Banc;A. Bawara;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;A. Bawara
+5;Championat de France;Domicile;Defaite;Charnay;;Banc;N. Zonzon;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;N. Zonzon
+5;Championat de France;Domicile;Defaite;Charnay;;Banc;J. Adams;15;17;0,28;15,28;2;4;0,5;2;3;0,666666667;0;1;0;0;0;;;;;;;;;4;0;1;1;0;0;0;0;0;2;1;-11;3;24;J. Adams
+5;Championat de France;Domicile;Defaite;Charnay;;Banc;L. Preneau;22;60;1;23;2;9;0,222222222;0;2;0;2;7;0,285714286;3;4;0,75;;;;;;;;9;1;2;3;2;2;3;0;0;2;3;-9;7;27;L. Preneau
+5;Championat de France;Domicile;Defaite;Charnay;;Banc;S. Ousfar;23;7;0,12;23,12;4;6;0,666666667;2;3;0,666666667;2;3;0,666666667;3;7;0,428571429;;;;;;;;13;0;3;3;0;1;0;0;0;4;5;-9;9;28;S. Ousfar
+5;Championat de France;Domicile;Defaite;Charnay;;Banc;TOTAUX EQUIPE;;;;;23;55;0,418181818;17;32;0,53125;6;23;0,260869565;19;28;0,678571429;9;26;11;6;26;5;8;71;8;29;37;13;23;6;3;2;18;24;0;66;;TOTAUX EQUIPE
+6;Championat de France;Exterieur;Defaite;Saint-Amand;Capitaine;Starter;A. Suarez Utrero;28;57;0,95;28,95;4;14;0,285714286;2;10;0,2;2;4;0,5;3;3;1;;;;;;;;13;1;1;2;4;2;2;0;2;2;3;-20;9;1;A. Suarez Utrero(C)
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Starter;S. Wallace;20;50;0,83;20,83;2;9;0,222222222;1;5;0,2;1;4;0,25;1;2;0,5;;;;;;;;6;1;0;1;0;4;4;1;0;3;2;-15;0;13;S. Wallace
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Starter;A. Kone;20;48;0,8;20,8;3;8;0,375;3;6;0,5;0;2;0;3;3;1;;;;;;;;9;3;0;3;1;4;0;3;0;5;3;-30;7;18;A. Kone
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Starter;J. Adams;22;1;0,02;22,02;1;5;0,2;1;4;0,25;0;1;0;1;2;0,5;;;;;;;;3;0;3;3;2;1;0;0;0;1;5;-28;2;24;J. Adams
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Starter;T. Clarke;32;41;0,68;32,68;4;10;0,4;4;10;0,4;0;0;;2;2;1;;;;;;;;10;0;4;4;3;1;0;1;0;2;2;-27;11;34;T. Clarke
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Banc;C. Dako;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;C. Dako
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Banc;C. Savoy;0;50;0,83;0,83;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;4;C. Savoy
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Banc;N. Zonzon;2;50;0,83;2,83;2;3;0,666666667;2;2;1;0;1;0;1;1;1;;;;;;;;5;0;0;0;0;0;1;0;0;2;1;2;5;9;N. Zonzon
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Banc;L. Preneau;24;21;0,35;24,35;1;4;0,25;0;1;0;1;3;0,333333333;2;4;0,5;;;;;;;;5;0;2;2;1;1;0;0;0;3;2;-11;2;27;L. Preneau
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Banc;S. Ousfar;25;41;0,68;25,68;2;7;0,285714286;0;3;0;2;4;0,5;0;0;;;;;;;;;6;1;5;6;2;0;0;2;0;3;0;-2;11;28;S. Ousfar
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Banc;V. Gomis;21;1;0,02;21,02;1;2;0,5;1;1;1;0;1;0;1;2;0,5;;;;;;;;3;1;2;3;0;2;1;1;0;4;2;-15;4;75;V. Gomis
+6;Championat de France;Exterieur;Defaite;Saint-Amand;;Banc;TOTAUX EQUIPE;;;;;20;62;0,322580645;14;42;0,333333333;6;20;0,3;14;19;0,736842105;14;22;3;7;19;1;5;60;8;22;30;13;16;8;8;2;25;20;0;56;;TOTAUX EQUIPE
+7;Championat de France;Domicile;Defaite;Bourges;Capitaine;Starter;A. Suarez Utrero;28;53;0,88;28,88;1;7;0,142857143;0;3;0;1;4;0,25;0;0;;;;;;;;;3;1;3;4;4;6;0;0;0;2;0;-14;-1;1;A. Suarez Utrero(C)
+7;Championat de France;Domicile;Defaite;Bourges;;Starter;J. Adams;20;49;0,82;20,82;2;6;0,333333333;2;5;0,4;0;1;0;0;1;0;;;;;;;;4;0;7;7;1;5;0;0;0;2;5;-6;2;24;J. Adams
+7;Championat de France;Domicile;Defaite;Bourges;;Starter;L. Preneau;20;27;0,45;20,45;1;3;0,333333333;1;2;0,5;0;1;0;0;0;;;;;;;;;2;1;3;4;3;2;1;0;0;3;1;-22;6;27;L. Preneau
+7;Championat de France;Domicile;Defaite;Bourges;;Starter;T. Clarke;27;27;0,45;27,45;4;8;0,5;4;8;0,5;0;0;;5;6;0,833333333;;;;;;;;13;2;5;7;1;1;1;4;0;1;4;-28;20;34;T. Clarke
+7;Championat de France;Domicile;Defaite;Bourges;;Starter;V. Gomis;24;29;0,48;24,48;3;11;0,272727273;2;7;0,285714286;1;4;0,25;2;4;0,5;;;;;;;;9;0;4;4;3;1;1;0;1;0;3;-15;6;75;V. Gomis
+7;Championat de France;Domicile;Defaite;Bourges;;Banc;C. Dako;1;39;0,65;1,65;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;0;-1;2;C. Dako
+7;Championat de France;Domicile;Defaite;Bourges;;Banc;N. Zonzon;16;15;0,25;16,25;1;3;0,333333333;1;2;0,5;0;1;0;1;2;0,5;;;;;;;;3;2;5;7;0;3;0;1;0;3;3;2;5;9;N. Zonzon
+7;Championat de France;Domicile;Defaite;Bourges;;Banc;S. Wallace;22;16;0,27;22,27;2;7;0,285714286;0;2;0;2;5;0,4;3;4;0,75;;;;;;;;9;1;0;1;2;1;3;0;0;3;2;-2;8;13;S. Wallace
+7;Championat de France;Domicile;Defaite;Bourges;;Banc;A. Kone;14;48;0,8;14,8;2;4;0,5;2;4;0,5;0;0;;4;4;1;;;;;;;;8;2;1;3;0;1;0;0;1;3;2;6;8;18;A. Kone
+7;Championat de France;Domicile;Defaite;Bourges;;Banc;S. Ousfar;22;57;0,95;22,95;1;6;0,166666667;1;3;0,333333333;0;3;0;0;0;;;;;;;;;2;0;6;6;1;2;0;1;0;1;1;-11;3;28;S. Ousfar
+7;Championat de France;Domicile;Defaite;Bourges;;Banc;TOTAUX EQUIPE;;;;;17;55;0,309090909;13;36;0,361111111;4;19;0,210526316;15;21;0,714285714;8;26;4;11;22;8;9;53;9;36;45;15;25;6;6;2;18;21;0;56;;TOTAUX EQUIPE
+8;Championat de France;Exterieur;Defaite;Tarbes;Capitaine;Starter;A. Suarez Utrero;31;58;0,97;31,97;2;9;0,222222222;1;5;0,2;1;4;0,25;0;0;;;;;;;;;5;0;3;3;5;4;1;0;1;3;1;-4;3;1;A. Suarez Utrero(C)
+8;Championat de France;Exterieur;Defaite;Tarbes;;Starter;A. Kone;26;25;0,42;26,42;6;8;0,75;6;8;0,75;0;0;;3;3;1;;;;;;;;15;1;5;6;1;1;2;0;2;4;2;6;21;18;A. Kone
+8;Championat de France;Exterieur;Defaite;Tarbes;;Starter;J. Adams;26;56;0,93;26,93;1;6;0,166666667;1;4;0,25;0;2;0;0;0;;;;;;;;;2;2;8;10;3;1;2;0;1;3;3;3;11;24;J. Adams
+8;Championat de France;Exterieur;Defaite;Tarbes;;Starter;T. Clarke;24;1;0,02;24,02;2;9;0,222222222;2;9;0,222222222;0;0;;3;4;0,75;;;;;;;;7;1;2;3;0;4;0;1;1;3;4;-9;-1;34;T. Clarke
+8;Championat de France;Exterieur;Defaite;Tarbes;;Starter;V. Gomis;23;3;0,05;23,05;1;4;0,25;1;2;0,5;0;2;0;0;0;;;;;;;;;2;1;1;2;1;3;1;0;0;1;1;-10;0;75;V. Gomis
+8;Championat de France;Exterieur;Defaite;Tarbes;;Banc;N. Zonzon;1;46;0,77;1,77;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;0;0;0;0;1;0;0;0;3;1;4;1;9;N. Zonzon
+8;Championat de France;Exterieur;Defaite;Tarbes;;Banc;S. Wallace;24;2;0,03;24,03;4;13;0,307692308;2;6;0,333333333;2;7;0,285714286;2;2;1;;;;;;;;12;2;3;5;1;0;0;0;1;2;2;-6;9;13;S. Wallace
+8;Championat de France;Exterieur;Defaite;Tarbes;;Banc;L. Preneau;16;9;0,15;16,15;2;5;0,4;2;4;0,5;0;1;0;1;1;1;;;;;;;;5;0;0;0;3;1;1;0;1;5;2;-11;5;27;L. Preneau
+8;Championat de France;Exterieur;Defaite;Tarbes;;Banc;S. Ousfar;25;39;0,65;25,65;3;6;0,5;1;1;1;2;5;0,4;0;0;;;;;;;;;8;1;5;6;1;3;0;0;0;3;0;-13;9;28;S. Ousfar
+8;Championat de France;Exterieur;Defaite;Tarbes;;Banc;TOTAUX EQUIPE;;;;;22;61;0,360655738;17;40;0,425;5;21;0,238095238;9;10;0,9;10;34;9;6;27;12;8;58;8;30;38;15;20;7;1;7;28;16;0;59;;TOTAUX EQUIPE
+9;Championat de France;Domicile;Defaite;Angers;Capitaine;Starter;A. Suarez Utrero;33;54;0,9;33,9;4;14;0,285714286;1;7;0,142857143;3;7;0,428571429;0;0;;;;;;;;;11;1;3;4;6;5;1;0;0;3;1;-13;7;1;A. Suarez Utrero(C)
+9;Championat de France;Domicile;Defaite;Angers;;Starter;S. Wallace;25;21;0,35;25,35;3;10;0,3;3;3;1;0;7;0;1;2;0,5;;;;;;;;7;2;2;4;1;7;3;0;0;2;1;-2;0;13;S. Wallace
+9;Championat de France;Domicile;Defaite;Angers;;Starter;A. Kone;28;33;0,55;28,55;2;7;0,285714286;2;6;0,333333333;0;1;0;2;2;1;;;;;;;;6;3;2;5;2;3;0;0;0;2;3;-25;5;18;A. Kone
+9;Championat de France;Domicile;Defaite;Angers;;Starter;J. Adams;20;28;0,47;20,47;3;5;0,6;2;2;1;1;3;0,333333333;0;0;;;;;;;;;7;2;5;7;1;4;0;0;0;4;1;-11;9;24;J. Adams
+9;Championat de France;Domicile;Defaite;Angers;;Starter;T. Clarke;31;0;0;31;6;10;0,6;6;10;0,6;0;0;;2;4;0,5;;;;;;;;14;0;6;6;4;3;0;1;0;1;3;-2;16;34;T. Clarke
+9;Championat de France;Domicile;Defaite;Angers;;Banc;C. Dako;0;29;0,48;0,48;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;2;C. Dako
+9;Championat de France;Domicile;Defaite;Angers;;Banc;N. Zonzon;14;23;0,38;14,38;1;4;0,25;1;4;0,25;0;0;;0;0;;;;;;;;;2;0;1;1;0;0;2;0;0;1;1;-15;2;9;N. Zonzon
+9;Championat de France;Domicile;Defaite;Angers;;Banc;L. Preneau;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;27;L. Preneau
+9;Championat de France;Domicile;Defaite;Angers;;Banc;S. Ousfar;20;27;0,45;20,45;2;7;0,285714286;1;4;0,25;1;3;0,333333333;0;1;0;;;;;;;;5;0;3;3;1;0;0;0;0;3;2;-15;3;28;S. Ousfar
+9;Championat de France;Domicile;Defaite;Angers;;Banc;V. Gomis;25;25;0,42;25,42;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;2;2;4;0;1;1;0;0;0;2;-20;2;75;V. Gomis
+9;Championat de France;Domicile;Defaite;Angers;;Banc;TOTAUX EQUIPE;;;;;21;59;0,355932203;16;37;0,432432432;5;22;0,227272727;5;9;0,555555556;21;22;7;10;7;4;7;52;10;25;35;15;23;7;1;0;16;14;0;45;;TOTAUX EQUIPE
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;Capitaine;Starter;A. Suarez Utrero;35;8;0,13;35,13;7;11;0,636363636;7;9;0,777777778;0;2;0;1;3;0,333333333;;;;;;;;15;0;4;4;3;5;1;0;0;2;1;22;12;1;A. Suarez Utrero(C)
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;;Starter;S. Wallace;33;22;0,37;33,37;2;10;0,2;0;2;0;2;8;0,25;1;2;0,5;;;;;;;;7;0;4;4;4;2;1;1;2;1;2;19;6;13;S. Wallace
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;;Starter;A. Kone;24;37;0,62;24,62;2;6;0,333333333;2;6;0,333333333;0;0;;0;0;;;;;;;;;4;0;3;3;4;1;1;0;0;3;3;13;7;18;A. Kone
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;;Starter;T. Clarke;35;58;0,97;35,97;9;12;0,75;9;12;0,75;0;0;;2;2;1;;;;;;;;20;2;5;7;2;1;3;0;0;2;2;19;28;34;T. Clarke
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;;Starter;V. Gomis;23;48;0,8;23,8;2;8;0,25;1;5;0,2;1;3;0,333333333;0;0;;;;;;;;;5;0;4;4;2;1;1;0;1;2;2;3;5;75;V. Gomis
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;;Banc;C. Savoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Savoy
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;;Banc;N. Zonzon;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;N. Zonzon
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;;Banc;J. Adams;27;54;0,9;27,9;3;7;0,428571429;2;6;0,333333333;1;1;1;1;2;0,5;;;;;;;;8;5;5;10;5;2;2;0;0;2;2;13;18;24;J. Adams
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;;Banc;S. Ousfar;19;13;0,22;19,22;4;9;0,444444444;2;3;0,666666667;2;6;0,333333333;3;3;1;;;;;;;;13;1;2;3;0;2;0;0;1;4;2;6;9;28;S. Ousfar
+10;Championat de France;Exterieur;Victoire;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;29;63;0,46031746;23;43;0,534883721;6;20;0,3;8;12;0,666666667;16;28;8;0;21;19;8;72;10;31;41;20;15;9;1;4;17;14;0;90;;TOTAUX EQUIPE
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;Capitaine;Starter;A. Suarez Utrero;33;2;0,03;33,03;2;11;0,181818182;1;4;0,25;1;7;0,142857143;0;0;;;;;;;;;5;0;1;1;9;3;4;0;0;2;1;-9;7;1;A. Suarez Utrero(C)
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Starter;A. Kone;27;48;0,8;27,8;5;11;0,454545455;4;10;0,4;1;1;1;0;0;;;;;;;;;11;2;5;7;4;3;0;0;1;2;1;10;13;18;A. Kone
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Starter;J. Adams;34;3;0,05;34,05;2;5;0,4;2;4;0,5;0;1;0;3;4;0,75;;;;;;;;7;0;10;10;4;4;1;0;0;4;5;-7;14;24;J. Adams
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Starter;T. Clarke;28;21;0,35;28,35;5;10;0,5;5;10;0,5;0;0;;2;3;0,666666667;;;;;;;;12;2;1;3;1;2;0;1;1;2;4;-23;9;34;T. Clarke
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Starter;V. Gomis;32;42;0,7;32,7;4;8;0,5;2;4;0,5;2;4;0,5;1;2;0,5;;;;;;;;11;1;1;2;0;4;2;0;0;3;2;-3;6;75;V. Gomis
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;C. Dako;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;C. Dako
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;N. Zonzon;0;12;0,2;0,2;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;9;N. Zonzon
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;S. Wallace;19;14;0,23;19,23;1;4;0,25;1;2;0,5;0;2;0;1;2;0,5;;;;;;;;3;0;2;2;0;1;0;0;0;2;4;6;0;13;S. Wallace
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;L. Preneau;0;47;0,78;0,78;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;0;0;0;0;0;0;0;0;0;0;0;2;27;L. Preneau
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;S. Ousfar;23;51;0,85;23,85;4;9;0,444444444;4;5;0,8;0;4;0;0;0;;;;;;;;;8;1;5;6;0;1;3;0;0;3;0;3;11;28;S. Ousfar
+11;Championat de France;Exterieur;Defaite;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;24;59;0,406779661;20;40;0,5;4;19;0,210526316;7;11;0,636363636;15;40;5;14;13;14;9;59;7;28;35;18;19;10;1;2;19;17;0;65;;TOTAUX EQUIPE
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;Capitaine;Starter;A. Suarez Utrero;23;0;0;23;1;9;0,111111111;1;7;0,142857143;0;2;0;2;4;0,5;;;;;;;;4;2;1;3;8;8;2;0;1;0;2;-16;-1;1;A. Suarez Utrero(C)
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;A. Kone;32;42;0,7;32,7;9;16;0,5625;9;15;0,6;0;1;0;3;4;0,75;;;;;;;;21;1;6;7;1;4;0;0;0;2;4;-20;17;18;A. Kone
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;J. Adams;28;45;0,75;28,75;2;3;0,666666667;1;1;1;1;2;0,5;2;2;1;;;;;;;;7;0;6;6;1;3;3;0;0;3;2;-18;13;24;J. Adams
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;T. Clarke;27;19;0,32;27,32;4;14;0,285714286;4;14;0,285714286;0;0;;2;2;1;;;;;;;;10;3;6;9;0;2;2;2;0;2;4;-21;11;34;T. Clarke
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;V. Gomis;34;12;0,2;34,2;3;9;0,333333333;2;4;0,5;1;5;0,2;2;2;1;;;;;;;;9;1;2;3;1;2;2;0;1;2;1;-23;7;75;V. Gomis
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;C. Dako;8;12;0,2;8,2;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;0;0;0;1;1;0;0;0;0;0;-3;2;2;C. Dako
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;C. Savoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Savoy
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;N. Zonzon;15;22;0,37;15,37;2;5;0,4;2;5;0,4;0;0;;2;2;1;;;;;;;;6;1;1;2;0;1;0;0;0;1;1;-8;4;9;N. Zonzon
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;S. Ousfar;30;28;0,47;30,47;0;4;0;0;1;0;0;3;0;0;0;;;;;;;;;0;0;5;5;3;3;0;0;0;2;2;-21;1;28;S. Ousfar
+12;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;22;61;0,360655738;20;48;0,416666667;2;13;0,153846154;13;16;0,8125;17;38;8;15;8;2;6;59;10;28;38;15;25;9;2;2;13;16;0;56;;TOTAUX EQUIPE
+13;Championat de France;Domicile;Defaite;Basket Landes;Capitaine;Starter;A. Suarez Utrero;35;38;0,63;35,63;2;10;0,2;0;5;0;2;5;0,4;0;0;;;;;;;;;6;1;5;6;4;5;1;0;1;2;0;-8;4;1;A. Suarez Utrero(C)
+13;Championat de France;Domicile;Defaite;Basket Landes;;Starter;A. Kone;23;29;0,48;23,48;2;6;0,333333333;2;6;0,333333333;0;0;;2;2;1;;;;;;;;6;0;6;6;1;2;0;0;2;3;2;-2;7;18;A. Kone
+13;Championat de France;Domicile;Defaite;Basket Landes;;Starter;J. Adams;36;22;0,37;36,37;2;8;0,25;2;7;0,285714286;0;1;0;6;8;0,75;;;;;;;;10;2;8;10;2;3;1;0;1;1;5;-8;12;24;J. Adams
+13;Championat de France;Domicile;Defaite;Basket Landes;;Starter;T. Clarke;35;49;0,82;35,82;11;18;0,611111111;11;18;0,611111111;0;0;;3;4;0,75;;;;;;;;25;4;2;6;0;3;1;0;0;3;5;-9;21;34;T. Clarke
+13;Championat de France;Domicile;Defaite;Basket Landes;;Starter;V. Gomis;35;8;0,13;35,13;0;7;0;0;3;0;0;4;0;0;0;;;;;;;;;0;0;2;2;3;1;1;0;1;1;1;-14;-2;75;V. Gomis
+13;Championat de France;Domicile;Defaite;Basket Landes;;Banc;C. Dako;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;C. Dako
+13;Championat de France;Domicile;Defaite;Basket Landes;;Banc;C. Savoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Savoy
+13;Championat de France;Domicile;Defaite;Basket Landes;;Banc;A. Bawara;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;A. Bawara
+13;Championat de France;Domicile;Defaite;Basket Landes;;Banc;N. Zonzon;4;14;0,23;4,23;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;1;2;0;-3;-2;9;N. Zonzon
+13;Championat de France;Domicile;Defaite;Basket Landes;;Banc;S. Ousfar;29;20;0,33;29,33;3;8;0,375;2;4;0,5;1;4;0,25;2;2;1;;;;;;;;9;2;4;6;1;2;1;0;0;2;1;-6;10;28;S. Ousfar
+13;Championat de France;Domicile;Defaite;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;20;59;0,338983051;17;44;0,386363636;3;15;0,2;13;16;0,8125;14;24;8;8;9;4;7;56;11;30;41;11;18;5;0;6;14;14;0;53;;TOTAUX EQUIPE
+14;Championat de France;Exterieur;Victoire;Landerneau;;Banc;TOTAUX EQUIPE;;;;;;;;;;;;;;;;;;;;;;;;78;0;0;0;0;0;0;0;0;0;0;0;0;;TOTAUX EQUIPE
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;Capitaine;Starter;A. Suarez Utrero;32;34;0,57;32,57;6;13;0,461538462;3;6;0,5;3;7;0,428571429;3;3;1;;;;;;;;18;2;1;3;6;3;1;0;0;2;5;-17;18;1;A. Suarez Utrero(C)
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Starter;A. Kone;33;27;0,45;33,45;7;13;0,538461538;6;11;0,545454545;1;2;0,5;4;4;1;;;;;;;;19;2;3;5;0;3;1;0;1;1;2;-22;16;18;A. Kone
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Starter;J. Adams;32;9;0,15;32,15;5;13;0,384615385;4;10;0,4;1;3;0,333333333;6;8;0,75;;;;;;;;17;3;5;8;0;0;1;0;1;3;4;-24;16;24;J. Adams
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Starter;S. Ousfar;34;20;0,33;34,33;1;9;0,111111111;1;1;1;0;8;0;0;0;;;;;;;;;2;1;8;9;1;4;0;2;0;3;1;-23;2;28;S. Ousfar
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Starter;V. Gomis;28;15;0,25;28,25;1;10;0,1;1;5;0,2;0;5;0;2;2;1;;;;;;;;4;3;4;7;0;5;0;0;0;0;4;-19;-3;75;V. Gomis
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;C. Dako;5;26;0,43;5,43;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;1;1;0;0;0;1;0;-4;0;2;C. Dako
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;C. Mouberi-Cumar;3;33;0,55;3,55;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-1;0;4;C. Mouberi-Cumar
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;A. Bawara;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;A. Bawara
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;N. Zonzon;10;57;0,95;10,95;1;1;1;0;0;;1;1;1;0;0;;;;;;;;;3;0;2;2;0;0;0;0;0;2;0;-2;5;9;N. Zonzon
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;L. Preneau;19;19;0,32;19,32;1;3;0,333333333;0;2;0;1;1;1;0;0;;;;;;;;;3;0;0;0;0;1;2;0;0;4;0;-13;2;27;L. Preneau
+15;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;22;62;0,35483871;15;35;0,428571429;7;27;0,259259259;15;17;0,882352941;6;26;6;8;6;;5;66;12;27;39;8;18;5;2;2;16;16;0;60;;TOTAUX EQUIPE
+16;Championat de France;Exterieur;Defaite;Charnay;Capitaine;Starter;A. Suarez Utrero;38;17;0,28;38,28;7;15;0,466666667;2;7;0,285714286;5;8;0,625;0;0;;;;;;;;;19;1;5;6;8;6;3;1;1;2;3;-14;23;1;A. Suarez Utrero(C)
+16;Championat de France;Exterieur;Defaite;Charnay;;Starter;A. Kone;24;34;0,57;24,57;1;2;0,5;1;2;0,5;0;0;;9;10;0,9;;;;;;;;11;0;3;3;2;4;0;0;0;3;5;-7;10;18;A. Kone
+16;Championat de France;Exterieur;Defaite;Charnay;;Starter;J. Adams;26;57;0,95;26,95;3;9;0,333333333;3;8;0,375;0;1;0;0;0;;;;;;;;;6;4;5;9;3;4;0;0;0;4;1;-17;8;24;J. Adams
+16;Championat de France;Exterieur;Defaite;Charnay;;Starter;S. Ousfar;27;39;0,65;27,65;4;5;0,8;0;0;;4;5;0,8;0;0;;;;;;;;;12;1;3;4;3;4;2;0;0;4;0;-19;16;28;S. Ousfar
+16;Championat de France;Exterieur;Defaite;Charnay;;Starter;T. Clarke;30;18;0,3;30,3;9;15;0,6;9;14;0,642857143;0;1;0;8;11;0,727272727;;;;;;;;26;1;4;5;2;3;0;2;0;3;8;-11;23;34;T. Clarke
+16;Championat de France;Exterieur;Defaite;Charnay;;Banc;C. Dako;1;39;0,65;1,65;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;4;C. Dako
+16;Championat de France;Exterieur;Defaite;Charnay;;Banc;N. Zonzon;1;39;0,65;1,65;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;1;0;0;0;2;2;9;N. Zonzon
+16;Championat de France;Exterieur;Defaite;Charnay;;Banc;L. Preneau;19;22;0,37;19,37;1;3;0,333333333;1;2;0,5;0;1;0;0;0;;;;;;;;;2;0;1;1;4;3;0;0;0;2;1;-1;2;27;L. Preneau
+16;Championat de France;Exterieur;Defaite;Charnay;;Banc;V. Gomis;29;35;0,58;29,58;2;7;0,285714286;2;4;0,5;0;3;0;2;2;1;;;;;;;;6;1;5;6;3;3;1;0;0;2;3;-5;8;75;V. Gomis
+16;Championat de France;Exterieur;Defaite;Charnay;;Banc;TOTAUX EQUIPE;;;;;27;56;0,482142857;18;37;0,486486486;9;19;0,473684211;19;23;0,826086957;12;30;8;6;8;4;7;82;9;29;38;25;27;6;4;1;20;21;0;95;;TOTAUX EQUIPE
+17;Championat de France;Domicile;Victoire;Saint-Amand;Capitaine;Starter;A. Suarez Utrero;29;9;0,15;29,15;5;12;0,416666667;4;8;0,5;1;4;0,25;4;4;1;;;;;;;;15;0;0;0;7;5;2;1;0;1;3;11;13;1;A. Suarez Utrero(C)
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;A. Kone;29;47;0,78;29,78;6;15;0,4;6;13;0,461538462;0;2;0;1;1;1;;;;;;;;13;0;2;2;6;2;1;1;0;2;3;22;12;18;A. Kone
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;J. Adams;29;19;0,32;29,32;7;9;0,777777778;4;5;0,8;3;4;0,75;2;2;1;;;;;;;;19;3;4;7;4;1;1;0;0;2;2;31;28;24;J. Adams
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;T. Clarke;23;5;0,08;23,08;4;7;0,571428571;4;7;0,571428571;0;0;;5;5;1;;;;;;;;13;2;6;8;1;1;2;1;0;3;4;8;21;34;T. Clarke
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;V. Gomis;30;50;0,83;30,83;6;8;0,75;4;4;1;2;4;0,5;3;5;0,6;;;;;;;;17;1;0;1;2;1;2;0;0;3;4;25;17;75;V. Gomis
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;C. Savoy;1;29;0,48;1,48;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Savoy
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;C. Mouberi;1;29;0,48;1,48;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;C. Mouberi
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;N. Zonzon;10;39;0,65;10,65;1;5;0,2;1;4;0,25;0;1;0;0;0;;;;;;;;;2;2;1;3;0;1;0;0;0;0;0;-1;0;9;N. Zonzon
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;L. Preneau;18;34;0,57;18,57;0;6;0;0;3;0;0;3;0;2;4;0,5;;;;;;;;2;0;0;0;1;0;0;0;0;3;2;12;-5;27;L. Preneau
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;S. Ousfar;25;39;0,65;25,65;3;4;0,75;0;0;;3;4;0,75;2;2;1;;;;;;;;11;1;6;7;1;0;0;2;0;3;1;22;20;28;S. Ousfar
+17;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;TOTAUX EQUIPE;;;;;32;66;0,484848485;23;44;0,522727273;9;22;0,409090909;19;23;0,826086957;34;36;9;20;15;26;12;92;10;19;29;22;12;8;5;0;17;19;0;106;;TOTAUX EQUIPE
+18;Championat de France;Exterieur;Defaite;Bourges;Capitaine;Starter;A. Suarez Utrero;34;5;0,08;34,08;5;10;0,5;4;8;0,5;1;2;0,5;6;8;0,75;;;;;;;;17;2;3;5;7;8;1;0;1;3;7;-21;15;1;A. Suarez Utrero(C)
+18;Championat de France;Exterieur;Defaite;Bourges;;Starter;A. Kone;18;26;0,43;18,43;2;4;0,5;1;3;0,333333333;1;1;1;1;1;1;;;;;;;;6;0;4;4;1;1;0;0;0;5;1;0;8;18;A. Kone
+18;Championat de France;Exterieur;Defaite;Bourges;;Starter;J. Adams;30;22;0,37;30,37;4;7;0,571428571;2;4;0,5;2;3;0,666666667;7;8;0,875;;;;;;;;17;2;6;8;3;3;3;0;0;3;6;-8;24;24;J. Adams
+18;Championat de France;Exterieur;Defaite;Bourges;;Starter;T. Clarke;32;34;0,57;32,57;7;14;0,5;7;14;0,5;0;0;;3;4;0,75;;;;;;;;17;2;3;5;1;3;2;1;1;2;2;-17;15;34;T. Clarke
+18;Championat de France;Exterieur;Defaite;Bourges;;Starter;V. Gomis;31;14;0,23;31,23;5;11;0,454545455;2;6;0,333333333;3;5;0,6;2;2;1;;;;;;;;15;0;1;1;4;4;1;0;1;3;1;-17;11;75;V. Gomis
+18;Championat de France;Exterieur;Defaite;Bourges;;Banc;A. Bawara;2;18;0,3;2,3;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;1;0;0;0;1;2;6;A. Bawara
+18;Championat de France;Exterieur;Defaite;Bourges;;Banc;N. Zonzon;2;18;0,3;2,3;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;1;0;0;1;0;9;N. Zonzon
+18;Championat de France;Exterieur;Defaite;Bourges;;Banc;L. Preneau;22;20;0,33;22,33;3;7;0,428571429;2;5;0,4;1;2;0,5;0;0;;;;;;;;;7;0;4;4;2;3;0;0;0;4;1;-2;6;27;L. Preneau
+18;Championat de France;Exterieur;Defaite;Bourges;;Banc;S. Ousfar;26;24;0,4;26,4;2;7;0,285714286;0;2;0;2;5;0,4;0;0;;;;;;;;;6;0;1;1;2;3;3;0;0;3;1;-12;4;28;S. Ousfar
+18;Championat de France;Exterieur;Defaite;Bourges;;Banc;TOTAUX EQUIPE;;;;;28;61;0,459016393;18;43;0,418604651;10;18;0,555555556;19;23;0,826086957;11;30;4;19;13;2;8;85;9;24;33;20;26;10;2;4;23;19;0;87;;TOTAUX EQUIPE
+19;Championat de France;Domicile;Defaite;Tarbes;Capitaine;Starter;A. Suarez Utrero;35;19;0,32;35,32;3;13;0,230769231;3;7;0,428571429;0;6;0;1;2;0,5;;;;;;;;7;3;6;9;7;0;1;0;1;1;4;-6;13;1;A. Suarez Utrero(C)
+19;Championat de France;Domicile;Defaite;Tarbes;;Starter;A. Kone;23;56;0,93;23,93;6;8;0,75;6;8;0,75;0;0;;4;4;1;;;;;;;;16;1;4;5;2;6;0;0;0;4;2;7;15;18;A. Kone
+19;Championat de France;Domicile;Defaite;Tarbes;;Starter;J. Adams;27;31;0,52;27,52;1;5;0,2;1;3;0,333333333;0;2;0;0;0;;;;;;;;;2;1;7;8;2;6;0;0;1;1;1;-13;2;24;J. Adams
+19;Championat de France;Domicile;Defaite;Tarbes;;Starter;T. Clarke;30;26;0,43;30,43;7;16;0,4375;7;16;0,4375;0;0;;4;7;0,571428571;;;;;;;;18;1;6;7;1;3;3;4;1;2;5;-15;18;34;T. Clarke
+19;Championat de France;Domicile;Defaite;Tarbes;;Starter;V. Gomis;37;46;0,77;37,77;4;8;0,5;2;3;0,666666667;2;5;0,4;5;7;0,714285714;;;;;;;;15;0;2;2;0;2;1;0;0;2;7;-13;10;75;V. Gomis
+19;Championat de France;Domicile;Defaite;Tarbes;;Banc;C. Savoy;1;45;0,75;1,75;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Savoy
+19;Championat de France;Domicile;Defaite;Tarbes;;Banc;A. Bawara;1;45;0,75;1,75;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;1;0;0;0;0;2;0;0;2;6;A. Bawara
+19;Championat de France;Domicile;Defaite;Tarbes;;Banc;N. Zonzon;3;45;0,75;3,75;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;1;0;0;0;0;-6;-1;9;N. Zonzon
+19;Championat de France;Domicile;Defaite;Tarbes;;Banc;L. Preneau;13;54;0,9;13,9;0;2;0;0;1;0;0;1;0;0;2;0;;;;;;;;0;0;1;1;1;2;0;0;0;2;1;-13;-4;27;L. Preneau
+19;Championat de France;Domicile;Defaite;Tarbes;;Banc;S. Ousfar;23;53;0,88;23,88;1;5;0,2;0;2;0;1;3;0,333333333;0;0;;;;;;;;;3;0;0;0;0;1;1;1;0;3;0;-26;0;28;S. Ousfar
+19;Championat de France;Domicile;Defaite;Tarbes;;Banc;TOTAUX EQUIPE;;;;;22;58;0,379310345;19;41;0,463414634;3;17;0,176470588;14;22;0,636363636;19;28;5;4;3;2;8;61;7;28;35;14;24;7;5;3;17;20;0;54;;TOTAUX EQUIPE
+20;Championat de France;Exterieur;Defaite;Angers;Capitaine;Starter;A. Suarez Utrero;38;19;0,32;38,32;6;11;0,545454545;2;4;0,5;4;7;0,571428571;2;7;0,285714286;;;;;;;;18;0;9;9;6;6;2;0;0;1;5;-2;19;1;A. Suarez Utrero(C)
+20;Championat de France;Exterieur;Defaite;Angers;;Starter;A. Kone;24;33;0,55;24,55;2;8;0,25;2;8;0,25;0;0;;0;0;;;;;;;;;4;3;2;5;0;5;2;0;0;3;0;-5;0;18;A. Kone
+20;Championat de France;Exterieur;Defaite;Angers;;Starter;J. Adams;33;31;0,52;33,52;3;12;0,25;3;9;0,333333333;0;3;0;2;3;0,666666667;;;;;;;;8;2;8;10;0;2;0;0;0;4;5;-2;6;24;J. Adams
+20;Championat de France;Exterieur;Defaite;Angers;;Starter;T. Clarke;31;57;0,95;31,95;6;11;0,545454545;6;11;0,545454545;0;0;;7;10;0,7;;;;;;;;19;4;6;10;0;2;1;2;0;1;7;6;22;34;T. Clarke
+20;Championat de France;Exterieur;Defaite;Angers;;Starter;V. Gomis;31;52;0,87;31,87;1;6;0,166666667;1;1;1;0;5;0;2;2;1;;;;;;;;4;0;1;1;0;3;0;0;0;4;1;-3;-3;75;V. Gomis
+20;Championat de France;Exterieur;Defaite;Angers;;Banc;A. Bawara;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;A. Bawara
+20;Championat de France;Exterieur;Defaite;Angers;;Banc;N. Zonzon;0;16;0,27;0,27;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;N. Zonzon
+20;Championat de France;Exterieur;Defaite;Angers;;Banc;L. Preneau;16;2;0,03;16,03;1;2;0,5;1;1;1;0;1;0;1;2;0,5;;;;;;;;3;0;1;1;2;3;1;0;0;3;1;-5;2;27;L. Preneau
+20;Championat de France;Exterieur;Defaite;Angers;;Banc;S. Ousfar;23;30;0,5;23,5;2;10;0,2;1;4;0,25;1;6;0,166666667;0;0;;;;;;;;;5;0;6;6;3;2;1;1;0;2;0;-9;6;28;S. Ousfar
+20;Championat de France;Exterieur;Defaite;Angers;;Banc;TOTAUX EQUIPE;;;;;21;60;0,35;16;38;0,421052632;5;22;0,227272727;14;24;0,583333333;17;28;16;11;8;7;7;61;11;36;47;11;23;7;3;0;18;19;0;57;;TOTAUX EQUIPE
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;Capitaine;Starter;A. Suarez Utrero;29;7;0,12;29,12;4;7;0,571428571;1;2;0,5;3;5;0,6;0;0;;;;;;;;;11;0;4;4;6;5;0;1;0;1;0;-2;14;1;A. Suarez Utrero(C)
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Starter;A. Kone;26;48;0,8;26,8;1;3;0,333333333;1;3;0,333333333;0;0;;0;0;;;;;;;;;2;0;2;2;7;1;0;0;0;0;0;-3;8;18;A. Kone
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Starter;J. Adams;31;28;0,47;31,47;5;11;0,454545455;2;7;0,285714286;3;4;0,75;0;0;;;;;;;;;13;1;11;12;4;2;0;0;2;3;3;-6;21;24;J. Adams
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Starter;T. Clarke;25;21;0,35;25,35;9;11;0,818181818;9;11;0,818181818;0;0;;5;6;0,833333333;;;;;;;;23;3;5;8;0;3;2;0;0;0;5;7;27;34;T. Clarke
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Starter;V. Gomis;33;14;0,23;33,23;6;13;0,461538462;3;5;0,6;3;8;0,375;2;3;0,666666667;;;;;;;;17;1;2;3;4;4;0;0;0;1;1;3;12;75;V. Gomis
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Banc;C. Savoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Savoy
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Banc;A. Bawara;2;3;0,05;2,05;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;1;0;0;-3;-1;6;A. Bawara
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Banc;N. Zonzon;4;23;0,38;4,38;0;2;0;0;1;0;0;1;0;1;2;0,5;;;;;;;;1;2;1;3;1;0;0;0;0;1;1;-1;2;9;N. Zonzon
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Banc;L. Preneau;22;3;0,05;22,05;;;;1;6;0,166666667;0;4;0;0;0;;;;;;;;;2;0;1;1;2;0;1;0;0;2;0;-3;-3;27;L. Preneau
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Banc;S. Ousfar;25;33;0,55;25,55;;;;1;1;1;4;7;0,571428571;1;1;1;;;;;;;;15;1;7;8;0;3;0;0;0;4;2;-7;17;28;S. Ousfar
+21;Championat de France;Domicile;Defaite;Lattes Montpellier;;Banc;TOTAUX EQUIPE;;;;;31;66;0,46969697;18;37;0,486486486;13;29;0,448275862;9;12;0,75;13;34;10;17;18;13;11;84;9;36;45;24;19;3;1;3;12;12;0;100;;TOTAUX EQUIPE
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;Capitaine;Starter;A. Suarez Utrero;34;27;0,45;34,45;6;15;0,4;5;8;0,625;1;7;0,142857143;0;0;;;;;;;;;13;1;3;4;7;4;2;0;0;3;2;-1;13;1;A. Suarez Utrero(C)
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Starter;A. Kone;25;46;0,77;25,77;4;9;0,444444444;4;7;0,571428571;0;2;0;4;5;0,8;;;;;;;;12;1;1;2;1;2;0;0;1;1;4;-10;7;18;A. Kone
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Starter;J. Adams;34;26;0,43;34,43;1;7;0,142857143;1;6;0,166666667;0;1;0;9;11;0,818181818;;;;;;;;11;4;5;9;2;1;3;0;0;1;9;-4;16;24;J. Adams
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Starter;T. Clarke;30;40;0,67;30,67;8;10;0,8;8;10;0,8;0;0;;2;4;0,5;;;;;;;;18;1;1;2;4;1;1;2;0;3;3;-1;22;34;T. Clarke
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Starter;V. Gomis;33;25;0,42;33,42;5;10;0,5;4;6;0,666666667;1;4;0,25;0;1;0;;;;;;;;11;0;0;0;2;3;2;0;0;0;5;-7;6;75;V. Gomis
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;C. Savoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Savoy
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;A. Bawara;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;A. Bawara
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;N. Zonzon;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;9;N. Zonzon
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;L. Preneau;17;42;0,7;17,7;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;3;0;1;0;0;2;0;-6;3;27;L. Preneau
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;S. Ousfar;23;34;0,57;23,57;3;7;0,428571429;1;1;1;2;6;0,333333333;0;0;;;;;;;;;8;0;3;3;1;1;0;1;0;4;0;-1;8;28;S. Ousfar
+22;Championat de France;Domicile;Defaite;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;27;59;0,457627119;23;38;0,605263158;4;21;0,19047619;15;21;0,714285714;17;34;7;7;8;6;6;73;7;18;25;20;12;9;3;1;15;23;0;80;;TOTAUX EQUIPE
+P1;Playdown;Domicile;Victoire;Saint-Amand;Capitaine;Starter;A. Suarez Utrero;36;0;0;36;4;10;0,4;1;4;0,25;3;6;0,5;4;4;1;;;;;;;;15;0;1;1;10;2;1;0;0;1;2;9;19;1;A. Suarez Utrero(C)
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Starter;A. Kone;23;58;0,97;23,97;2;5;0,4;2;3;0,666666667;0;2;0;0;0;;;;;;;;;4;2;7;9;1;3;1;1;0;2;1;8;10;18;A. Kone
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Starter;J. Adams;35;4;0,07;35,07;4;8;0,5;4;8;0,5;0;0;;7;9;0,777777778;;;;;;;;15;4;8;12;5;1;3;0;1;3;6;10;28;24;J. Adams
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Starter;T. Clarke;34;11;0,18;34,18;8;18;0,444444444;8;18;0,444444444;0;0;;3;4;0,75;;;;;;;;19;5;6;11;1;3;0;1;2;1;6;8;18;34;T. Clarke
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Starter;V. Gomis;31;19;0,32;31,32;4;9;0,444444444;1;3;0,333333333;3;6;0,5;2;3;0,666666667;;;;;;;;13;0;2;2;1;3;2;0;0;3;3;8;9;75;V. Gomis
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Banc;C. Dako;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;C. Dako
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Banc;C. Savoy;0;17;0,28;0,28;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;4;C. Savoy
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Banc;A. Bawara;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;A. Bawara
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Banc;L. Preneau;17;20;0,33;17,33;0;4;0;0;3;0;0;1;0;2;2;1;;;;;;;;2;0;1;1;1;0;1;0;1;4;2;17;1;27;L. Preneau
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Banc;S. Ousfar;21;51;0,85;21,85;5;10;0,5;3;5;0,6;2;5;0,4;1;3;0,333333333;;;;;;;;13;3;7;10;1;4;0;0;0;2;2;14;13;28;S. Ousfar
+P1;Playdown;Domicile;Victoire;Saint-Amand;;Banc;TOTAUX EQUIPE;;;;;27;64;0,421875;19;44;0,431818182;8;20;0,4;19;25;0,76;15;34;16;12;15;18;9;81;16;32;48;20;18;8;2;4;16;22;0;98;;TOTAUX EQUIPE
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;Capitaine;Starter;A. Suarez Utrero;35;6;0,1;35,1;5;14;0,357142857;3;9;0,333333333;2;5;0,4;2;2;1;;;;;;;;14;1;4;5;11;1;0;0;0;3;4;0;20;1;A. Suarez Utrero(C)
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;;Starter;A. Kone;23;55;0,92;23,92;2;4;0,5;2;4;0,5;0;0;;3;4;0,75;;;;;;;;7;1;1;2;0;1;1;1;0;4;3;3;7;18;A. Kone
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;;Starter;J. Adams;31;49;0,82;31,82;4;12;0,333333333;2;7;0,285714286;2;5;0,4;1;2;0,5;;;;;;;;11;6;5;11;1;4;3;0;1;2;2;-18;13;24;J. Adams
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;;Starter;T. Clarke;33;49;0,82;33,82;6;13;0,461538462;6;13;0,461538462;0;0;;11;16;0,6875;;;;;;;;23;1;4;5;1;1;5;0;0;1;8;0;21;34;T. Clarke
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;;Starter;V. Gomis;32;3;0,05;32,05;2;6;0,333333333;1;4;0,25;1;2;0,5;0;0;;;;;;;;;5;0;0;0;2;1;1;0;0;2;1;-2;3;75;V. Gomis
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;;Banc;C. Savoy;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;C. Savoy
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;;Banc;A. Bawara;0;40;0,67;0,67;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;A. Bawara
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;;Banc;L. Preneau;21;2;0,03;21,03;2;6;0,333333333;1;4;0,25;1;2;0,5;1;4;0,25;;;;;;;;6;0;0;0;3;0;2;0;0;3;2;5;4;27;L. Preneau
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;;Banc;S. Ousfar;21;36;0,6;21,6;2;5;0,4;0;1;0;2;4;0,5;0;0;;;;;;;;;6;1;3;4;3;4;1;0;0;4;0;-13;7;28;S. Ousfar
+P2;Playdown;Exterieur;Defaite;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;23;60;0,383333333;15;42;0,357142857;8;18;0,444444444;18;28;0,642857143;18;24;10;17;12;1;8;72;12;19;31;21;13;13;1;1;19;20;0;78;;TOTAUX EQUIPE
+P3;Playdown;Exterieur;Defaite;Landerneau;Capitaine;Starter;A. Suarez Utrero;26;18;0,3;26,3;4;9;0,444444444;1;4;0,25;3;5;0,6;0;0;;;;;;;;;11;0;2;2;5;10;2;0;0;0;1;-19;5;1;A. Suarez Utrero(C)
+P3;Playdown;Exterieur;Defaite;Landerneau;;Starter;A. Kone;26;54;0,9;26,9;5;6;0,833333333;5;6;0,833333333;0;0;;1;1;1;;;;;;;;11;2;2;4;2;6;0;0;0;1;3;-23;10;18;A. Kone
+P3;Playdown;Exterieur;Defaite;Landerneau;;Starter;J. Adams;28;55;0,92;28,92;2;4;0,5;2;4;0,5;0;0;;0;0;;;;;;;;;4;0;6;6;0;5;2;0;1;3;1;-25;5;24;J. Adams
+P3;Playdown;Exterieur;Defaite;Landerneau;;Starter;T. Clarke;23;54;0,9;23,9;3;5;0,6;3;5;0,6;0;0;;0;0;;;;;;;;;6;2;1;3;2;3;1;1;0;3;2;-10;8;34;T. Clarke
+P3;Playdown;Exterieur;Defaite;Landerneau;;Starter;V. Gomis;30;29;0,48;30,48;0;6;0;0;3;0;0;3;0;1;2;0,5;;;;;;;;1;0;3;3;1;6;1;0;0;4;3;-22;-7;75;V. Gomis
+P3;Playdown;Exterieur;Defaite;Landerneau;;Banc;C. Dako;3;38;0,63;3,63;1;1;1;1;1;1;0;0;;0;3;0;;;;;;;;2;0;0;0;0;1;0;0;0;0;2;-2;-2;2;C. Dako
+P3;Playdown;Exterieur;Defaite;Landerneau;;Banc;A. Bawara;3;7;0,12;3,12;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;2;2;0;0;1;0;0;1;0;-2;2;4;A. Bawara
+P3;Playdown;Exterieur;Defaite;Landerneau;;Banc;L. Preneau;30;40;0,67;30,67;2;6;0,333333333;2;4;0,5;0;2;0;1;1;1;;;;;;;;5;0;3;3;0;4;0;0;0;3;1;-16;0;27;L. Preneau
+P3;Playdown;Exterieur;Defaite;Landerneau;;Banc;S. Ousfar;26;5;0,08;26,08;1;5;0,2;1;3;0,333333333;0;2;0;0;0;;;;;;;;;2;0;7;7;1;1;1;1;0;3;2;-21;7;28;S. Ousfar
+P3;Playdown;Exterieur;Defaite;Landerneau;;Banc;TOTAUX EQUIPE;;;;;18;43;0,418604651;15;31;0,483870968;3;12;0,25;3;7;0,428571429;6;24;4;4;9;2;7;42;5;30;35;11;37;8;2;1;18;15;0;32;;TOTAUX EQUIPE
+P4;Playdown;Exterieur;Victoire;Saint-Amand;;Starter;A. Suarez Utrero;38;10;0,17;38,17;8;16;0,5;3;6;0,5;5;10;0,5;4;4;1;;;;;;;;25;0;4;4;7;6;3;0;0;1;3;9;25;1;A. Suarez Utrero
+P4;Playdown;Exterieur;Victoire;Saint-Amand;Capitaine;Starter;A. Kone;26;39;0,65;26,65;2;7;0,285714286;2;6;0,333333333;0;1;0;2;2;1;;;;;;;;6;1;3;4;2;2;0;0;0;2;3;5;5;18;A. Kone(C)
+P4;Playdown;Exterieur;Victoire;Saint-Amand;;Starter;J. Adams;26;20;0,33;26,33;2;5;0,4;2;4;0,5;0;1;0;1;2;0,5;;;;;;;;5;6;11;17;2;3;1;0;0;3;1;-4;18;24;J. Adams
+P4;Playdown;Exterieur;Victoire;Saint-Amand;;Starter;T. Clarke;34;15;0,25;34,25;6;17;0,352941176;6;17;0,352941176;0;0;;5;9;0,555555556;;;;;;;;17;2;4;6;2;2;0;0;2;3;6;13;8;34;T. Clarke
+P4;Playdown;Exterieur;Victoire;Saint-Amand;;Starter;V. Gomis;35;1;0,02;35,02;4;9;0,444444444;1;3;0,333333333;3;6;0,5;2;2;1;;;;;;;;13;0;1;1;6;1;6;0;0;4;5;11;20;75;V. Gomis
+P4;Playdown;Exterieur;Victoire;Saint-Amand;;Banc;C. Dako;4;3;0,05;4,05;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;1;0;0;-1;2;C. Dako
+P4;Playdown;Exterieur;Victoire;Saint-Amand;;Banc;A. Bawara;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;6;A. Bawara
+P4;Playdown;Exterieur;Victoire;Saint-Amand;;Banc;L. Preneau;16;26;0,43;16,43;2;4;0,5;2;2;1;0;2;0;0;0;;;;;;;;;4;0;2;2;2;2;1;0;0;1;1;-7;5;27;L. Preneau
+P4;Playdown;Exterieur;Victoire;Saint-Amand;;Banc;S. Ousfar;19;6;0,1;19,1;2;7;0,285714286;1;1;1;1;6;0,166666667;0;0;;;;;;;;;5;1;4;5;0;2;1;0;0;4;0;-12;4;28;S. Ousfar
+P4;Playdown;Exterieur;Victoire;Saint-Amand;;Banc;TOTAUX EQUIPE;;;;;26;65;0,4;17;39;0,435897436;9;26;0,346153846;14;19;0,736842105;23;28;17;9;9;15;10;75;12;32;44;21;19;12;0;2;19;19;0;89;;TOTAUX EQUIPE
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;Capitaine;Starter;A. Suarez Utrero;33;46;0,77;33,77;5;15;0,333333333;4;8;0,5;1;7;0,142857143;0;0;;;;;;;;;11;0;4;4;4;3;0;0;0;4;2;-10;6;1;A. Suarez Utrero(C)
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Starter;A. Kone;25;2;0,03;25,03;5;7;0,714285714;5;7;0,714285714;0;0;;6;6;1;;;;;;;;16;1;2;3;1;5;1;0;1;5;5;3;14;18;A. Kone
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Starter;J. Adams;37;39;0,65;37,65;3;8;0,375;3;6;0,5;0;2;0;10;13;0,769230769;;;;;;;;16;4;9;13;5;5;4;0;0;2;9;-10;25;24;J. Adams
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Starter;L. Preneau;23;46;0,77;23,77;0;5;0;0;4;0;0;1;0;3;4;0,75;;;;;;;;3;2;0;2;0;2;0;0;2;1;2;-8;-3;27;L. Preneau
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Starter;T. Clarke;29;11;0,18;29,18;5;10;0,5;5;10;0,5;0;0;;1;2;0,5;;;;;;;;11;4;9;13;0;4;1;0;0;2;4;-12;15;34;T. Clarke
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Banc;C. Dako;3;32;0,53;3,53;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-3;-1;2;C. Dako
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Banc;C. Savoy;0;36;0,6;0,6;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-6;0;4;C. Savoy
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Banc;N. Zonzon;20;53;0,88;20,88;4;5;0,8;2;3;0,666666667;2;2;1;0;0;;;;;;;;;10;1;0;1;0;0;2;0;0;2;0;7;12;9;N. Zonzon
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Banc;S. Ousfar;20;11;0,18;20,18;0;6;0;0;2;0;0;4;0;1;2;0,5;;;;;;;;1;0;4;4;1;0;2;0;0;2;1;0;1;28;S. Ousfar
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Banc;A. Bawara;5;23;0,38;5,38;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-6;0;75;A. Bawara
+P5;Playdown;Domicile;Defaite;Charleville-Mézières;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;22;56;0,392857143;19;40;0,475;3;16;0,1875;21;27;0,777777778;17;34;11;19;11;2;9;68;12;29;41;11;21;10;0;3;18;23;0;69;;TOTAUX EQUIPE
+P6;Playdown;Domicile;Defaite;Landerneau;Capitaine;Starter;A. Suarez Utrero;35;34;0,57;35,57;6;12;0,5;4;7;0,571428571;2;5;0,4;1;2;0,5;;;;;;;;15;2;1;3;9;8;1;0;0;1;2;1;13;1;A. Suarez Utrero(C)
+P6;Playdown;Domicile;Defaite;Landerneau;;Starter;A. Kone;29;5;0,08;29,08;6;12;0,5;6;10;0,6;0;2;0;1;1;1;;;;;;;;13;0;4;4;2;3;1;0;0;3;3;-9;11;18;A. Kone
+P6;Playdown;Domicile;Defaite;Landerneau;;Starter;J. Adams;35;14;0,23;35,23;2;5;0,4;1;4;0,25;1;1;1;2;2;1;;;;;;;;7;1;6;7;1;5;2;0;0;2;3;-4;9;24;J. Adams
+P6;Playdown;Domicile;Defaite;Landerneau;;Starter;L. Preneau;33;20;0,33;33,33;3;5;0,6;2;3;0,666666667;1;2;0,5;1;6;0,166666667;;;;;;;;8;0;3;3;2;2;0;0;0;4;4;-9;4;27;L. Preneau
+P6;Playdown;Domicile;Defaite;Landerneau;;Starter;T. Clarke;29;53;0,88;29,88;4;6;0,666666667;4;6;0,666666667;0;0;;0;0;;;;;;;;;8;1;4;5;0;5;1;1;0;2;2;-9;8;34;T. Clarke
+P6;Playdown;Domicile;Defaite;Landerneau;;Banc;C. Dako;2;20;0,33;2,33;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-3;0;2;C. Dako
+P6;Playdown;Domicile;Defaite;Landerneau;;Banc;C. Savoy;0;22;0,37;0,37;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;1;0;4;C. Savoy
+P6;Playdown;Domicile;Defaite;Landerneau;;Banc;A. Bawara;3;11;0,18;3,18;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;1;0;0;0;1;0;4;0;6;A. Bawara
+P6;Playdown;Domicile;Defaite;Landerneau;;Banc;N. Zonzon;13;10;0,17;13,17;0;4;0;0;2;0;0;2;0;1;2;0,5;;;;;;;;1;0;2;2;0;1;2;0;1;1;2;-7;-1;9;N. Zonzon
+P6;Playdown;Domicile;Defaite;Landerneau;;Banc;S. Ousfar;17;51;0,85;17,85;1;5;0,2;1;4;0,25;0;1;0;0;0;;;;;;;;;2;2;2;4;0;2;0;0;0;2;3;0;0;28;S. Ousfar
+P6;Playdown;Domicile;Defaite;Landerneau;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;22;49;0,448979592;18;36;0,5;4;13;0,307692308;6;13;0,461538462;6;28;5;3;3;5;7;54;8;26;34;14;27;7;1;1;16;19;0;49;;TOTAUX EQUIPE

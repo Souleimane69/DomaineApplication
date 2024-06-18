@@ -1,0 +1,311 @@
+Num_match;Competition;dom_ext;Gagne_perdu;Adveresaire;Capitaine;Starter/bench;Joueur;Minutes;Secondes;Secondes(minutes);Tps_jeu_decimal;Tirs_marques;Tirs_tentes;%Tirs;2pts_marques;2pts_tentes;%2pts;3pts_marques;3pts_tentes;%3pts;LF_marques;LF_tentes;%LF;Pts_apres_balles_perdues;Points_int;Point_2eme_chance;Points_CA;Points_banc;Ecart_max;Serie_max;Pts;RO;RD;RT;PD;BP;INT;CT;CTS;F;FPR;+/-;EVAL;N°;JOUEUR
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Starter;E. Zemoura;16;40;0,67;16,67;0;1;0;0;0;;0;1;0;2;2;1;;;;;;;;2;0;3;3;3;0;1;0;0;2;1;10;8;2;E. Zemoura
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Starter;A. Jenkins;28;8;0,13;28,13;6;11;0,545454545;6;8;0,75;0;3;0;6;9;0,666666667;;;;;;;;18;3;4;7;2;2;2;0;1;2;7;10;19;24;A. Jenkins
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Starter;M. Toure;18;25;0,42;18,42;2;6;0,333333333;2;3;0,666666667;0;3;0;2;2;1;;;;;;;;6;2;1;3;3;3;0;0;0;1;1;3;5;28;M. Toure
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Starter;K. Linskens;28;56;0,93;28,93;9;15;0,6;8;11;0,727272727;1;4;0,25;3;5;0,6;;;;;;;;22;0;7;7;6;0;1;2;0;1;3;22;30;31;K. Linskens
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;Capitaine;Starter;R. Bernies;35;44;0,73;35,73;5;6;0,833333333;1;1;1;4;5;0,8;0;0;;;;;;;;;14;0;8;8;10;0;1;0;0;3;1;17;32;47;R. Bernies(C)
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Banc;L. Djoko;2;2;0,03;2,03;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;L. Djoko
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Banc;S. Caetano;1;39;0,65;1,65;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;1;0;1;0;0;0;0;0;0;0;0;-1;8;S. Caetano
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Banc;E. Naigre;23;28;0,47;23,47;4;8;0,5;2;5;0,4;2;3;0,666666667;0;0;;;;;;;;;10;0;0;0;1;1;1;0;0;3;0;-4;7;13;E. Naigre
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Banc;A. Alston;26;60;1;27;8;14;0,571428571;5;8;0,625;3;6;0,5;0;0;;;;;;;;;19;0;1;1;2;2;0;0;1;4;5;11;14;22;A. Alston
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Banc;K. Bell;17;58;0,97;17,97;0;6;0;0;5;0;0;1;0;2;2;1;;;;;;;;2;1;2;3;1;1;2;0;2;2;2;-4;1;23;K. Bell
+1/8 de finale;Coupe de France;Domicile;Victoire;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;34;69;0,492753623;24;43;0,558139535;10;26;0,384615385;15;20;0,75;18;40;15;18;31;15;12;93;9;27;36;28;9;8;2;4;18;20;0;118;;TOTAUX EQUIPE
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Starter;E. Naigre;17;50;0,83;17,83;1;3;0,333333333;1;2;0,5;0;1;0;1;1;1;;;;;;;;3;0;3;3;2;1;0;0;0;5;3;3;5;13;E. Naigre
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Starter;A. Alston;37;32;0,53;37,53;4;10;0,4;4;7;0,571428571;0;3;0;5;6;0,833333333;;;;;;;;13;1;0;1;1;2;0;0;1;1;3;-1;6;22;A. Alston
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Starter;A. Jenkins;34;4;0,07;34,07;3;6;0,5;3;6;0,5;0;0;;2;3;0,666666667;;;;;;;;8;0;3;3;2;1;2;1;0;1;3;-2;11;24;A. Jenkins
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Starter;M. Badiane;33;34;0,57;33,57;4;15;0,266666667;3;10;0,3;1;5;0,2;2;2;1;;;;;;;;11;1;7;8;3;2;1;0;0;1;2;-1;10;25;M. Badiane
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;Capitaine;Starter;R. Bernies;34;17;0,28;34,28;2;6;0,333333333;0;2;0;2;4;0,5;3;3;1;;;;;;;;9;1;4;5;3;3;0;0;0;5;3;-5;10;47;R. Bernies(C)
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Banc;E. Zemoura;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;E. Zemoura
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Banc;A. Brun;2;54;0,9;2,9;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-5;0;4;A. Brun
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Banc;S. Caetano;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;8;S. Caetano
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Banc;G. Rabot;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;26;G. Rabot
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Banc;M. Toure;20;36;0,6;20,6;4;8;0,5;3;5;0,6;1;3;0,333333333;2;2;1;;;;;;;;11;0;2;2;1;1;2;0;1;4;1;-4;11;28;M. Toure
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Banc;K. Linskens;19;12;0,2;19,2;4;6;0,666666667;3;4;0,75;1;2;0,5;0;0;;;;;;;;;9;0;3;3;3;4;2;1;0;4;1;-10;12;31;K. Linskens
+1/4 de finale;Coupe de France;Domicile;Defaite;Tarbes;;Banc;TOTAUX EQUIPE;;;;;22;54;0,407407407;17;36;0,472222222;5;18;0,277777778;15;17;0,882352941;17;26;2;14;20;;8;64;5;26;31;15;15;7;2;2;21;16;0;70;;TOTAUX EQUIPE
+1;Championat de France;Domicile;Victoire;Landerneau;;Starter;E. Naigre;17;52;0,87;17,87;1;4;0,25;1;3;0,333333333;0;1;0;0;0;;;;;;;;;2;0;4;4;1;3;1;0;1;4;1;-1;2;13;E. Naigre
+1;Championat de France;Domicile;Victoire;Landerneau;;Starter;M. Badiane;27;2;0,03;27,03;6;10;0,6;5;9;0,555555556;1;1;1;1;1;1;;;;;;;;14;2;8;10;3;4;2;0;1;2;1;4;21;25;M. Badiane
+1;Championat de France;Domicile;Victoire;Landerneau;;Starter;G. Rabot;27;1;0,02;27,02;0;4;0;0;4;0;0;0;;0;0;;;;;;;;;0;2;9;11;3;3;0;0;0;2;0;12;7;26;G. Rabot
+1;Championat de France;Domicile;Victoire;Landerneau;;Starter;M. Toure;34;8;0,13;34,13;4;15;0,266666667;1;6;0,166666667;3;9;0,333333333;2;2;1;;;;;;;;13;0;3;3;0;3;1;1;0;2;4;18;4;28;M. Toure
+1;Championat de France;Domicile;Victoire;Landerneau;Capitaine;Starter;R. Bernies;26;52;0,87;26,87;3;3;1;2;2;1;1;1;1;0;0;;;;;;;;;7;1;2;3;3;10;1;1;0;2;2;18;5;47;R. Bernies(C)
+1;Championat de France;Domicile;Victoire;Landerneau;;Banc;M. Traore;0;32;0,53;0,53;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;3;0;1;M. Traore
+1;Championat de France;Domicile;Victoire;Landerneau;;Banc;E. Zemoura;1;37;0,62;1,62;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;1;0;0;1;0;3;2;2;E. Zemoura
+1;Championat de France;Domicile;Victoire;Landerneau;;Banc;A. Alston;25;60;1;26;4;10;0,4;3;5;0,6;1;5;0,2;5;6;0,833333333;;;;;;;;14;2;0;2;5;1;0;0;1;2;7;7;13;4;A. Alston
+1;Championat de France;Domicile;Victoire;Landerneau;;Banc;S. Caetano;3;54;0,9;3,9;0;2;0;0;0;;0;2;0;1;2;0,5;;;;;;;;1;0;1;1;0;0;0;0;0;1;1;-6;-1;8;S. Caetano
+1;Championat de France;Domicile;Victoire;Landerneau;;Banc;A. Jenkins;15;58;0,97;15,97;3;9;0,333333333;3;9;0,333333333;0;0;;3;7;0,428571429;;;;;;;;9;4;6;10;0;2;1;1;2;0;4;20;9;24;A. Jenkins
+1;Championat de France;Domicile;Victoire;Landerneau;;Banc;K. Linskens;19;4;0,07;19,07;2;4;0,5;2;4;0,5;0;0;;4;5;0,8;;;;;;;;8;2;3;5;1;2;0;1;0;3;3;17;10;31;K. Linskens
+1;Championat de France;Domicile;Victoire;Landerneau;;Banc;TOTAUX EQUIPE;;;;;23;61;0,37704918;17;42;0,404761905;6;19;0,315789474;16;23;0,695652174;20;32;12;7;32;28;10;68;17;40;57;16;29;7;4;5;19;23;0;78;;TOTAUX EQUIPE
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;A. Jenkins;30;23;0,38;30,38;5;8;0,625;3;6;0,5;2;2;1;3;3;1;;;;;;;;15;3;8;11;4;1;2;0;1;1;4;-20;28;24;A. Jenkins
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;M. Badiane;25;9;0,15;25,15;3;7;0,428571429;2;5;0,4;1;2;0,5;2;3;0,666666667;;;;;;;;9;1;6;7;0;6;2;0;0;1;2;-19;7;25;M. Badiane
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;G. Rabot;18;8;0,13;18,13;1;2;0,5;1;1;1;0;1;0;0;0;;;;;;;;;2;1;0;1;0;3;2;0;0;3;0;-6;1;26;G. Rabot
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;M. Toure;31;17;0,28;31,28;1;10;0,1;1;5;0,2;0;5;0;0;0;;;;;;;;;2;1;1;2;0;3;3;0;0;2;0;-27;-5;28;M. Toure
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;Capitaine;Starter;R. Bernies;34;43;0,72;34,72;2;9;0,222222222;2;6;0,333333333;0;3;0;0;0;;;;;;;;;4;0;1;1;3;3;0;0;0;1;4;-25;-2;47;R. Bernies(C)
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;E. Zemoura;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;E. Zemoura
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;S. Caetano;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;8;S. Caetano
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;E. Naigre;15;5;0,08;15,08;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;3;3;1;0;3;0;0;3;1;-17;7;13;E. Naigre
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;A. Alston;30;25;0,42;30,42;6;12;0,5;4;7;0,571428571;2;5;0,4;5;6;0,833333333;;;;;;;;19;0;0;0;3;5;0;0;0;1;2;-5;10;22;A. Alston
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;K. Linskens;14;51;0,85;14,85;3;5;0,6;3;4;0,75;0;1;0;0;0;;;;;;;;;6;1;2;3;0;0;1;1;0;5;1;-6;9;31;K. Linskens
+2;Championat de France;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;21;53;0,396226415;16;34;0,470588235;5;19;0,263157895;10;12;0,833333333;18;20;11;8;25;2;7;57;9;22;31;11;25;13;1;1;17;14;0;54;;TOTAUX EQUIPE
+3;Championat de France;Domicile;Victoire;Charnay;;Starter;A. Alston;31;51;0,85;31,85;3;7;0,428571429;0;1;0;3;6;0,5;0;0;;;;;;;;;9;0;5;5;7;3;2;1;0;1;3;15;17;22;A. Alston
+3;Championat de France;Domicile;Victoire;Charnay;;Starter;A. Jenkins;29;8;0,13;29,13;5;7;0,714285714;3;5;0,6;2;2;1;6;7;0,857142857;;;;;;;;18;1;7;8;2;2;2;0;0;3;5;7;25;24;A. Jenkins
+3;Championat de France;Domicile;Victoire;Charnay;;Starter;M. Badiane;25;50;0,83;25,83;7;10;0,7;7;8;0,875;0;2;0;2;2;1;;;;;;;;16;1;2;3;3;3;1;3;0;3;4;18;20;25;M. Badiane
+3;Championat de France;Domicile;Victoire;Charnay;;Starter;M. Toure;31;58;0,97;31,97;4;9;0,444444444;2;6;0,333333333;2;3;0,666666667;0;0;;;;;;;;;10;2;2;4;5;3;1;0;1;4;1;5;12;28;M. Toure
+3;Championat de France;Domicile;Victoire;Charnay;Capitaine;Starter;R. Bernies;34;46;0,77;34,77;5;8;0,625;4;6;0,666666667;1;2;0,5;2;2;1;;;;;;;;13;0;0;0;5;6;3;0;0;2;5;14;12;47;R. Bernies(C)
+3;Championat de France;Domicile;Victoire;Charnay;;Banc;E. Zemoura;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;E. Zemoura
+3;Championat de France;Domicile;Victoire;Charnay;;Banc;S. Caetano;5;22;0,37;5,37;0;2;0;0;0;;0;2;0;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;0;-1;8;S. Caetano
+3;Championat de France;Domicile;Victoire;Charnay;;Banc;E. Naigre;18;18;0,3;18,3;3;6;0,5;1;2;0,5;2;4;0,5;0;0;;;;;;;;;8;0;2;2;2;1;0;0;0;3;0;-3;8;13;E. Naigre
+3;Championat de France;Domicile;Victoire;Charnay;;Banc;G. Rabot;11;26;0,43;11,43;0;1;0;0;1;0;0;0;;2;2;1;;;;;;;;2;1;3;4;1;2;0;0;1;0;1;-3;4;26;G. Rabot
+3;Championat de France;Domicile;Victoire;Charnay;;Banc;K. Linskens;11;20;0,33;11,33;3;5;0,6;2;2;1;1;3;0,333333333;0;1;0;;;;;;;;7;0;2;2;0;3;0;0;0;3;1;-3;3;31;K. Linskens
+3;Championat de France;Domicile;Victoire;Charnay;;Banc;TOTAUX EQUIPE;;;;;30;55;0,545454545;19;31;0,612903226;11;24;0,458333333;12;14;0,857142857;19;34;5;13;17;14;11;83;7;25;32;25;23;9;4;2;19;20;0;103;;TOTAUX EQUIPE
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Starter;A. Jenkins;21;7;0,12;21,12;4;6;0,666666667;2;4;0,5;2;2;1;3;3;1;;;;;;;;13;0;4;4;0;4;0;1;0;3;2;13;12;24;A. Jenkins
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Starter;G. Rabot;28;13;0,22;28,22;2;2;1;1;1;1;1;1;1;0;0;;;;;;;;;5;2;6;8;2;0;1;0;0;1;1;9;16;26;G. Rabot
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Starter;M. Toure;29;46;0,77;29,77;4;9;0,444444444;3;5;0,6;1;4;0,25;2;2;1;;;;;;;;11;0;0;0;9;3;1;0;0;1;3;21;13;28;M. Toure
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Starter;K. Linskens;23;54;0,9;23,9;2;5;0,4;2;3;0,666666667;0;2;0;3;4;0,75;;;;;;;;7;0;5;5;2;1;2;3;0;4;4;13;14;31;K. Linskens
+4;Championat de France;Exterieur;Victoire;Saint-Amand;Capitaine;Starter;R. Bernies;34;4;0,07;34,07;2;4;0,5;2;3;0,666666667;0;1;0;0;0;;;;;;;;;4;0;3;3;6;2;0;0;0;2;2;27;9;47;R. Bernies(C)
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;E. Zemoura;1;8;0,13;1,13;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;3;0;2;E. Zemoura
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;S. Caetano;2;28;0,47;2,47;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;2;0;5;1;8;S. Caetano
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;E. Naigre;16;13;0,22;16,22;3;7;0,428571429;1;3;0,333333333;2;4;0,5;0;0;;;;;;;;;8;0;4;4;1;2;1;0;0;1;1;9;8;13;E. Naigre
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;A. Alston;15;51;0,85;15,85;2;7;0,285714286;0;2;0;2;5;0,4;0;0;;;;;;;;;6;1;0;1;1;5;2;0;0;1;2;2;0;22;A. Alston
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;M. Badiane;27;16;0,27;27,27;6;10;0,6;4;8;0,5;2;2;1;2;2;1;;;;;;;;16;0;7;7;0;1;2;2;1;1;2;28;22;25;M. Badiane
+4;Championat de France;Exterieur;Victoire;Saint-Amand;;Banc;TOTAUX EQUIPE;;;;;25;50;0,5;15;29;0,517241379;10;21;0,476190476;10;11;0,909090909;18;22;4;7;30;29;15;70;6;32;38;21;20;9;6;1;17;17;0;98;;TOTAUX EQUIPE
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;E. Naigre;22;35;0,58;22,58;2;11;0,181818182;1;4;0,25;1;7;0,142857143;0;0;;;;;;;;;5;1;6;7;2;1;1;0;0;2;1;8;5;13;E. Naigre
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;A. Jenkins;33;25;0,42;33,42;2;6;0,333333333;2;5;0,4;0;1;0;6;7;0,857142857;;;;;;;;10;1;3;4;1;1;4;0;0;2;5;11;13;24;A. Jenkins
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;M. Badiane;4;55;0,92;4,92;1;2;0,5;1;2;0,5;0;0;;0;0;;;;;;;;;2;0;1;1;1;0;0;0;0;1;0;0;3;25;M. Badiane
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Starter;M. Toure;31;3;0,05;31,05;7;7;1;6;6;1;1;1;1;1;1;1;;;;;;;;16;0;5;5;0;1;3;0;0;1;1;12;23;28;M. Toure
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;Capitaine;Starter;R. Bernies;34;56;0,93;34,93;4;8;0,5;4;6;0,666666667;0;2;0;3;3;1;;;;;;;;11;1;2;3;6;2;0;0;0;3;2;-3;14;47;R. Bernies(C)
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;E. Zemoura;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;E. Zemoura
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;S. Caetano;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;8;S. Caetano
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;A. Alston;32;30;0,5;32,5;3;5;0,6;3;4;0,75;0;1;0;0;0;;;;;;;;;6;0;1;1;2;2;2;0;0;1;3;4;7;22;A. Alston
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;G. Rabot;9;29;0,48;9,48;1;3;0,333333333;1;2;0,5;0;1;0;0;0;;;;;;;;;2;0;1;1;2;0;1;0;0;2;0;-4;4;26;G. Rabot
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;K. Linskens;31;7;0,12;31,12;6;13;0,461538462;5;10;0,5;1;3;0,333333333;0;0;;;;;;;;;13;1;7;8;1;3;0;0;0;0;0;7;12;31;K. Linskens
+5;Championat de France;Domicile;Victoire;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;26;55;0,472727273;23;39;0,58974359;3;16;0,1875;10;11;0,909090909;13;30;7;13;21;8;10;65;5;28;33;15;10;11;0;0;12;12;0;84;;TOTAUX EQUIPE
+6;Championat de France;Exterieur;Defaite;Basket Landes;;Starter;A. Jenkins;28;12;0,2;28,2;4;11;0,363636364;4;10;0,4;0;1;0;2;3;0,666666667;;;;;;;;10;2;4;6;4;5;2;0;3;5;3;-14;9;24;A. Jenkins
+6;Championat de France;Exterieur;Defaite;Basket Landes;;Starter;G. Rabot;20;12;0,2;20,2;4;4;1;4;4;1;0;0;;0;0;;;;;;;;;8;4;1;5;2;0;2;0;0;2;1;-7;17;26;G. Rabot
+6;Championat de France;Exterieur;Defaite;Basket Landes;;Starter;M. Toure;34;23;0,38;34,38;5;13;0,384615385;5;7;0,714285714;0;6;0;1;2;0,5;;;;;;;;11;0;6;6;4;4;0;1;1;2;2;-12;9;28;M. Toure
+6;Championat de France;Exterieur;Defaite;Basket Landes;;Starter;K. Linskens;30;58;0,97;30,97;5;11;0,454545455;5;10;0,5;0;1;0;1;2;0,5;;;;;;;;11;2;4;6;3;2;2;1;0;4;1;-8;14;31;K. Linskens
+6;Championat de France;Exterieur;Defaite;Basket Landes;Capitaine;Starter;R. Bernies;31;0;0;31;3;5;0,6;1;1;1;2;4;0,5;3;3;1;;;;;;;;11;1;2;3;2;3;1;0;0;1;2;-13;12;47;R. Bernies(C)
+6;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;E. Zemoura;0;8;0,13;0,13;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;E. Zemoura
+6;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;S. Caetano;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;8;S. Caetano
+6;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;E. Naigre;23;55;0,92;23,92;1;7;0,142857143;1;2;0,5;0;5;0;2;2;1;;;;;;;;4;1;3;4;0;3;2;0;0;1;2;-7;1;13;E. Naigre
+6;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;A. Alston;31;12;0,2;31,2;7;13;0,538461538;6;8;0,75;1;5;0,2;0;0;;;;;;;;;15;1;1;2;2;1;2;0;0;1;3;-14;14;22;A. Alston
+6;Championat de France;Exterieur;Defaite;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;29;64;0,453125;26;42;0,619047619;3;22;0,136363636;9;12;0,75;13;44;16;11;19;2;6;70;14;22;36;17;19;11;2;4;16;14;0;79;;TOTAUX EQUIPE
+7;Championat de France;Exterieur;Victoire;Angers;;Starter;A. Alston;25;17;0,28;25,28;4;6;0,666666667;2;3;0,666666667;2;3;0,666666667;4;5;0,8;;;;;;;;14;2;2;4;4;4;0;0;2;2;7;10;15;22;A. Alston
+7;Championat de France;Exterieur;Victoire;Angers;;Starter;A. Jenkins;33;22;0,37;33,37;5;9;0,555555556;4;8;0,5;1;1;1;11;13;0,846153846;;;;;;;;22;2;7;9;3;2;1;0;0;2;7;12;27;24;A. Jenkins
+7;Championat de France;Exterieur;Victoire;Angers;;Starter;M. Toure;34;28;0,47;34,47;6;10;0,6;5;7;0,714285714;1;3;0,333333333;1;2;0,5;;;;;;;;14;0;2;2;5;4;6;1;0;3;1;10;19;28;M. Toure
+7;Championat de France;Exterieur;Victoire;Angers;;Starter;K. Linskens;26;14;0,23;26,23;7;12;0,583333333;6;9;0,666666667;1;3;0,333333333;4;4;1;;;;;;;;19;1;4;5;4;2;1;0;0;2;3;0;22;31;K. Linskens
+7;Championat de France;Exterieur;Victoire;Angers;Capitaine;Starter;R. Bernies;35;58;0,97;35,97;5;7;0,714285714;3;3;1;2;4;0,5;1;1;1;;;;;;;;13;0;2;2;5;6;0;0;0;3;2;12;12;47;R. Bernies(C)
+7;Championat de France;Exterieur;Victoire;Angers;;Banc;E. Zemoura;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;E. Zemoura
+7;Championat de France;Exterieur;Victoire;Angers;;Banc;K. Bell;9;19;0,32;9,32;0;2;0;0;2;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;1;0;0;2;0;-2;-1;3;K. Bell
+7;Championat de France;Exterieur;Victoire;Angers;;Banc;E. Naigre;16;24;0,4;16,4;1;4;0,25;1;2;0,5;0;2;0;0;0;;;;;;;;;2;0;0;0;1;0;0;0;0;2;0;13;0;13;E. Naigre
+7;Championat de France;Exterieur;Victoire;Angers;;Banc;G. Rabot;18;58;0,97;18,97;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;1;1;2;0;0;1;0;0;2;0;15;5;26;G. Rabot
+7;Championat de France;Exterieur;Victoire;Angers;;Banc;TOTAUX EQUIPE;;;;;29;51;0,568627451;22;35;0,628571429;7;16;0,4375;21;25;0,84;18;42;6;15;4;18;11;86;6;22;28;22;19;10;1;2;18;20;0;102;;TOTAUX EQUIPE
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Starter;A. Jenkins;27;7;0,12;27,12;8;9;0,888888889;7;8;0,875;1;1;1;4;4;1;;;;;;;;21;2;3;5;0;2;3;0;0;1;5;20;26;24;A. Jenkins
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Starter;G. Rabot;11;41;0,68;11,68;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;1;2;3;4;2;0;0;0;1;0;13;7;26;G. Rabot
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Starter;M. Toure;36;37;0,62;36,62;6;13;0,461538462;4;9;0,444444444;2;4;0,5;0;0;;;;;;;;;14;0;2;2;7;6;1;0;0;2;0;17;11;28;M. Toure
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Starter;K. Linskens;29;5;0,08;29,08;6;10;0,6;6;8;0,75;0;2;0;1;1;1;;;;;;;;13;0;6;6;4;1;1;1;1;1;1;10;20;31;K. Linskens
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;Capitaine;Starter;R. Bernies;30;21;0,35;30,35;3;6;0,5;1;3;0,333333333;2;3;0,666666667;2;2;1;;;;;;;;10;1;6;7;2;2;1;0;0;4;2;13;15;47;R. Bernies(C)
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;L. Djoko;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;L. Djoko
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;E. Zemoura;0;26;0,43;0,43;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;4;0;2;E. Zemoura
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;K. Bell;7;54;0,9;7,9;1;3;0,333333333;1;2;0,5;0;1;0;1;2;0,5;;;;;;;;3;0;0;0;1;1;0;0;1;1;2;2;0;3;K. Bell
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;E. Naigre;23;17;0,28;23,28;4;10;0,4;2;6;0,333333333;2;4;0,5;0;0;;;;;;;;;10;1;4;5;6;0;2;2;0;2;0;6;19;13;E. Naigre
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;A. Alston;33;32;0,53;33,53;8;14;0,571428571;4;7;0,571428571;4;7;0,571428571;1;1;1;;;;;;;;21;0;3;3;3;1;3;0;0;2;1;5;23;22;A. Alston
+8;Championat de France;Domicile;Victoire;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;37;66;0,560606061;26;44;0,590909091;11;22;0,5;9;10;0,9;28;44;12;15;34;19;9;94;8;27;35;27;15;11;3;2;14;11;0;125;;TOTAUX EQUIPE
+9;Championat de France;Exterieur;Victoire;Tarbes;;Starter;E. Zemoura;17;32;0,53;17,53;3;6;0,5;1;3;0,333333333;2;3;0,666666667;0;0;;;;;;;;;8;1;0;1;0;1;1;0;0;2;2;4;6;2;E. Zemoura
+9;Championat de France;Exterieur;Victoire;Tarbes;;Starter;A. Jenkins;35;10;0,17;35,17;5;10;0,5;1;4;0,25;4;6;0,666666667;1;2;0,5;;;;;;;;15;1;5;6;3;2;2;0;2;2;6;17;18;24;A. Jenkins
+9;Championat de France;Exterieur;Victoire;Tarbes;;Starter;M. Toure;27;50;0,83;27,83;2;8;0,25;2;6;0,333333333;0;2;0;2;2;1;;;;;;;;6;2;3;5;4;1;2;1;0;0;1;8;11;28;M. Toure
+9;Championat de France;Exterieur;Victoire;Tarbes;;Starter;K. Linskens;23;20;0,33;23,33;5;13;0,384615385;5;11;0,454545455;0;2;0;5;6;0,833333333;;;;;;;;15;3;4;7;2;3;1;1;0;3;4;12;14;31;K. Linskens
+9;Championat de France;Exterieur;Victoire;Tarbes;Capitaine;Starter;R. Bernies;39;33;0,55;39,55;6;6;1;1;1;1;5;5;1;3;3;1;;;;;;;;20;1;4;5;9;5;2;0;0;0;1;16;31;47;R. Bernies(C)
+9;Championat de France;Exterieur;Victoire;Tarbes;;Banc;L. Djoko;1;5;0,08;1,08;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-1;0;4;L. Djoko
+9;Championat de France;Exterieur;Victoire;Tarbes;;Banc;S. Caetano;2;34;0,57;2,57;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;2;-1;8;S. Caetano
+9;Championat de France;Exterieur;Victoire;Tarbes;;Banc;E. Naigre;30;43;0,72;30,72;1;9;0,111111111;0;4;0;1;5;0,2;3;4;0,75;;;;;;;;6;0;0;0;2;4;0;0;1;4;2;21;-5;13;E. Naigre
+9;Championat de France;Exterieur;Victoire;Tarbes;;Banc;K. Bell;22;13;0,22;22,22;3;5;0,6;2;4;0,5;1;1;1;2;2;1;;;;;;;;9;0;3;3;1;2;2;0;0;0;1;1;11;23;K. Bell
+9;Championat de France;Exterieur;Victoire;Tarbes;;Banc;TOTAUX EQUIPE;;;;;25;58;0,431034483;12;34;0,352941176;13;24;0,541666667;16;19;0,842105263;25;24;4;5;15;19;9;79;11;25;36;21;21;10;2;3;12;17;0;91;;TOTAUX EQUIPE
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Starter;A. Alston;36;34;0,57;36,57;5;13;0,384615385;4;7;0,571428571;1;6;0,166666667;2;2;1;;;;;;;;13;1;5;6;3;4;0;0;0;2;1;-20;10;22;A. Alston
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Starter;A. Jenkins;33;1;0,02;33,02;2;10;0,2;2;10;0,2;0;0;;10;10;1;;;;;;;;14;3;4;7;5;3;2;2;1;4;6;-14;19;24;A. Jenkins
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Starter;M. Toure;27;45;0,75;27,75;2;8;0,25;2;5;0,4;0;3;0;0;1;0;;;;;;;;4;1;0;1;3;1;1;0;0;2;3;-8;1;28;M. Toure
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Starter;K. Linskens;28;34;0,57;28,57;2;7;0,285714286;2;4;0,5;0;3;0;0;0;;;;;;;;;4;2;7;9;4;3;1;0;0;3;1;-21;10;31;K. Linskens
+10;Championat de France;Domicile;Defaite;Roche Vendée;Capitaine;Starter;R. Bernies;38;8;0,13;38,13;4;10;0,4;3;5;0,6;1;5;0,2;1;1;1;;;;;;;;10;0;4;4;1;2;2;1;0;0;2;-11;10;47;R. Bernies(C)
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Banc;L. Djoko;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;L. Djoko
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Banc;E. Zemoura;1;53;0,88;1,88;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;1;0;-6;-1;2;E. Zemoura
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Banc;S. Caetano;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;8;S. Caetano
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Banc;E. Naigre;22;4;0,07;22,07;3;7;0,428571429;2;2;1;1;5;0,2;1;1;1;;;;;;;;8;0;2;2;0;3;0;1;0;2;3;-6;4;13;E. Naigre
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Banc;K. Bell;12;0;0;12;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;1;1;1;0;0;0;0;-9;0;23;K. Bell
+10;Championat de France;Domicile;Defaite;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;18;56;0,321428571;15;34;0,441176471;3;22;0,136363636;14;15;0,933333333;14;18;6;6;8;7;6;53;7;24;31;17;18;7;4;1;14;16;0;55;;TOTAUX EQUIPE
+11;Championat de France;Exterieur;Defaite;Bourges;;Starter;E. Naigre;30;40;0,67;30,67;2;7;0,285714286;1;3;0,333333333;1;4;0,25;2;2;1;;;;;;;;7;0;1;1;1;1;1;0;0;2;1;-7;4;13;E. Naigre
+11;Championat de France;Exterieur;Defaite;Bourges;;Starter;A. Alston;27;46;0,77;27,77;1;9;0,111111111;1;7;0,142857143;0;2;0;0;0;;;;;;;;;2;1;3;4;2;2;1;0;1;1;2;-5;-1;22;A. Alston
+11;Championat de France;Exterieur;Defaite;Bourges;;Starter;A. Jenkins;30;32;0,53;30,53;1;7;0,142857143;1;6;0,166666667;0;1;0;5;5;1;;;;;;;;7;2;5;7;3;1;5;0;0;1;3;-6;15;24;A. Jenkins
+11;Championat de France;Exterieur;Defaite;Bourges;;Starter;K. Linskens;22;23;0,38;22,38;5;9;0,555555556;4;6;0,666666667;1;3;0,333333333;2;2;1;;;;;;;;13;0;7;7;2;4;1;2;0;3;2;-6;17;31;K. Linskens
+11;Championat de France;Exterieur;Defaite;Bourges;Capitaine;Starter;R. Bernies;33;22;0,37;33,37;3;7;0,428571429;1;2;0,5;2;5;0,4;2;2;1;;;;;;;;10;0;1;1;6;4;1;0;0;3;1;-15;10;47;R. Bernies(C)
+11;Championat de France;Exterieur;Defaite;Bourges;;Banc;E. Zemoura;16;13;0,22;16,22;3;6;0,5;1;3;0,333333333;2;3;0,666666667;0;0;;;;;;;;;8;1;0;1;0;0;0;0;1;2;0;0;6;2;E. Zemoura
+11;Championat de France;Exterieur;Defaite;Bourges;;Banc;S. Caetano;0;16;0,27;0,27;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;0;8;S. Caetano
+11;Championat de France;Exterieur;Defaite;Bourges;;Banc;K. Bell;5;33;0,55;5,55;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;1;3;-1;23;K. Bell
+11;Championat de France;Exterieur;Defaite;Bourges;;Banc;M. Toure;33;15;0,25;33,25;8;12;0,666666667;4;7;0,571428571;4;5;0,8;3;5;0,6;;;;;;;;23;0;2;2;3;0;2;1;0;4;3;-7;25;28;M. Toure
+11;Championat de France;Exterieur;Defaite;Bourges;;Banc;TOTAUX EQUIPE;;;;;23;58;0,396551724;13;35;0,371428571;10;23;0,434782609;14;16;0,875;20;24;2;6;31;7;9;70;5;20;25;17;13;11;3;2;17;13;0;76;;TOTAUX EQUIPE
+12;Championat de France;Exterieur;Defaite;Landerneau;;Starter;E. Naigre;29;48;0,8;29,8;2;3;0,666666667;1;2;0,5;1;1;1;1;2;0,5;;;;;;;;6;0;5;5;5;3;1;0;0;1;2;-6;12;13;E. Naigre
+12;Championat de France;Exterieur;Defaite;Landerneau;;Starter;A. Alston;31;21;0,35;31,35;5;13;0,384615385;4;6;0,666666667;1;7;0,142857143;3;3;1;;;;;;;;14;0;1;1;3;8;0;0;1;2;3;-9;2;22;A. Alston
+12;Championat de France;Exterieur;Defaite;Landerneau;;Starter;A. Jenkins;36;10;0,17;36,17;7;11;0,636363636;7;8;0,875;0;3;0;5;7;0,714285714;;;;;;;;19;3;4;7;0;4;4;2;0;2;7;-5;22;24;A. Jenkins
+12;Championat de France;Exterieur;Defaite;Landerneau;;Starter;M. Badiane;30;21;0,35;30,35;6;11;0,545454545;5;9;0,555555556;1;2;0,5;4;5;0,8;;;;;;;;17;3;4;7;4;3;1;1;0;3;4;0;21;25;M. Badiane
+12;Championat de France;Exterieur;Defaite;Landerneau;Capitaine;Starter;R. Bernies;37;37;0,62;37,62;4;9;0,444444444;4;7;0,571428571;0;2;0;0;0;;;;;;;;;8;1;1;2;6;4;1;0;0;2;1;-15;8;47;R. Bernies(C)
+12;Championat de France;Exterieur;Defaite;Landerneau;;Banc;E. Zemoura;9;5;0,08;9,08;1;1;1;0;0;;1;1;1;0;0;;;;;;;;;3;1;1;2;0;2;1;0;0;0;0;-5;4;2;E. Zemoura
+12;Championat de France;Exterieur;Defaite;Landerneau;;Banc;A. Brun;4;42;0,7;4,7;0;2;0;0;0;;0;2;0;2;2;1;;;;;;;;2;0;1;1;0;0;0;0;0;2;1;4;1;4;A. Brun
+12;Championat de France;Exterieur;Defaite;Landerneau;;Banc;S. Caetano;7;2;0,03;7,03;0;1;0;0;0;;0;1;0;1;2;0,5;;;;;;;;1;0;0;0;0;0;2;0;0;1;1;2;1;8;S. Caetano
+12;Championat de France;Exterieur;Defaite;Landerneau;;Banc;K. Linskens;13;55;0,92;13,92;1;3;0,333333333;1;3;0,333333333;0;0;;0;0;;;;;;;;;2;0;3;3;1;0;0;0;0;1;0;-16;4;31;K. Linskens
+12;Championat de France;Exterieur;Defaite;Landerneau;;Banc;TOTAUX EQUIPE;;;;;26;54;0,481481481;22;35;0,628571429;4;19;0,210526316;16;21;0,761904762;21;40;9;7;8;;10;72;10;21;31;19;24;10;3;1;14;19;0;78;;TOTAUX EQUIPE
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Starter;E. Zemoura;9;4;0,07;9,07;1;3;0,333333333;1;3;0,333333333;0;0;;0;0;;;;;;;;;2;0;0;0;0;0;0;0;0;1;0;1;0;2;E. Zemoura
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Starter;A. Alston;36;12;0,2;36,2;7;12;0,583333333;5;7;0,714285714;2;5;0,4;2;2;1;;;;;;;;18;3;2;5;4;6;2;0;1;0;2;-13;18;22;A. Alston
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Starter;A. Jenkins;34;12;0,2;34,2;1;4;0,25;1;2;0,5;0;2;0;2;2;1;;;;;;;;4;1;6;7;6;3;1;1;0;2;4;-8;13;24;A. Jenkins
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Starter;M. Badiane;31;37;0,62;31,62;4;8;0,5;3;5;0,6;1;3;0,333333333;0;0;;;;;;;;;9;1;4;5;2;1;1;1;0;2;3;-7;13;25;M. Badiane
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;Capitaine;Starter;R. Bernies;36;39;0,65;36,65;7;15;0,466666667;3;6;0,5;4;9;0,444444444;2;2;1;;;;;;;;20;1;3;4;8;1;1;0;0;1;1;-5;24;47;R. Bernies(C)
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;M. Traore;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Traore
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;A. Brun;5;32;0,53;5,53;1;1;1;0;0;;1;1;1;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;1;1;1;3;4;A. Brun
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;S. Caetano;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;8;S. Caetano
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;E. Naigre;28;57;0,95;28,95;4;8;0,5;2;3;0,666666667;2;5;0,4;3;4;0,75;;;;;;;;13;0;2;2;2;1;0;0;0;4;3;-2;11;13;E. Naigre
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;K. Linskens;17;47;0,78;17,78;2;9;0,222222222;2;8;0,25;0;1;0;2;2;1;;;;;;;;6;1;2;3;1;1;1;0;0;2;2;-7;3;31;K. Linskens
+13;Championat de France;Domicile;Defaite;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;;;;;27;60;0,45;17;34;0,5;10;26;0,384615385;11;12;0,916666667;8;30;9;6;22;6;7;75;8;23;31;23;14;6;2;1;14;16;0;89;;TOTAUX EQUIPE
+14;Championat de France;Exterieur;Victoire;Charnay;;Starter;A. Alston;26;59;0,98;26,98;6;8;0,75;4;5;0,8;2;3;0,666666667;8;9;0,888888889;;;;;;;;22;1;1;2;6;0;1;0;0;3;7;18;28;22;A. Alston
+14;Championat de France;Exterieur;Victoire;Charnay;;Starter;A. Jenkins;26;37;0,62;26,62;2;4;0,5;2;4;0,5;0;0;;4;6;0,666666667;;;;;;;;8;1;3;4;5;2;3;0;0;2;3;6;14;24;A. Jenkins
+14;Championat de France;Exterieur;Victoire;Charnay;;Starter;M. Badiane;28;44;0,73;28,73;5;11;0,454545455;4;8;0,5;1;3;0,333333333;1;2;0,5;;;;;;;;12;2;7;9;2;4;1;1;0;4;2;16;14;25;M. Badiane
+14;Championat de France;Exterieur;Victoire;Charnay;;Starter;G. Rabot;16;53;0,88;16,88;3;4;0,75;3;4;0,75;0;0;;1;2;0,5;;;;;;;;7;2;2;4;1;0;1;0;0;3;3;8;11;26;G. Rabot
+14;Championat de France;Exterieur;Victoire;Charnay;Capitaine;Starter;R. Bernies;31;7;0,12;31,12;5;7;0,714285714;0;1;0;5;6;0,833333333;2;2;1;;;;;;;;17;0;1;1;2;3;1;0;0;1;2;25;16;47;R. Bernies(C)
+14;Championat de France;Exterieur;Victoire;Charnay;;Banc;E. Zemoura;4;42;0,7;4,7;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-7;-1;2;E. Zemoura
+14;Championat de France;Exterieur;Victoire;Charnay;;Banc;A. Brun;4;29;0,48;4,48;0;0;;0;0;;0;0;;0;2;0;;;;;;;;0;0;0;0;0;2;0;0;0;1;1;-10;-4;4;A. Brun
+14;Championat de France;Exterieur;Victoire;Charnay;;Banc;S. Caetano;1;55;0,92;1,92;0;0;;0;0;;0;0;;2;2;1;;;;;;;;2;0;1;1;0;0;0;0;0;0;1;-3;3;8;S. Caetano
+14;Championat de France;Exterieur;Victoire;Charnay;;Banc;M. Toure;29;58;0,97;29,97;1;7;0,142857143;1;6;0,166666667;0;1;0;2;4;0,5;;;;;;;;4;0;3;3;2;2;2;0;0;2;3;10;1;28;M. Toure
+14;Championat de France;Exterieur;Victoire;Charnay;;Banc;K. Linskens;28;36;0,6;28,6;6;8;0,75;5;6;0,833333333;1;2;0,5;5;6;0,833333333;;;;;;;;18;1;7;8;5;2;1;1;0;1;4;17;28;31;K. Linskens
+14;Championat de France;Exterieur;Victoire;Charnay;;Banc;TOTAUX EQUIPE;;;;;28;50;0,56;19;34;0,558823529;9;16;0,5625;25;35;0,714285714;22;28;12;12;24;26;15;90;7;26;33;23;17;10;2;0;17;26;0;109;;TOTAUX EQUIPE
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;A. Alston;34;55;0,92;34,92;6;14;0,428571429;3;8;0,375;3;6;0,5;0;0;;;;;;;;;15;1;3;4;3;1;2;0;1;0;1;24;15;22;A. Alston
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;A. Jenkins;29;31;0,52;29,52;6;7;0,857142857;5;5;1;1;2;0,5;7;9;0,777777778;;;;;;;;20;3;7;10;0;3;0;1;0;1;6;24;25;24;A. Jenkins
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;M. Badiane;29;28;0,47;29,47;5;12;0,416666667;5;11;0,454545455;0;1;0;0;0;;;;;;;;;10;2;7;9;2;0;2;4;0;2;3;13;20;25;M. Badiane
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Starter;G. Rabot;17;10;0,17;17,17;1;5;0,2;1;4;0,25;0;1;0;0;0;;;;;;;;;2;4;3;7;2;0;0;0;1;2;0;3;7;26;G. Rabot
+15;Championat de France;Domicile;Victoire;Saint-Amand;Capitaine;Starter;R. Bernies;36;21;0,35;36,35;5;10;0,5;4;6;0,666666667;1;4;0,25;3;3;1;;;;;;;;14;1;1;2;9;3;0;0;0;1;4;21;17;47;R. Bernies(C)
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;M. Traore;1;35;0,58;1,58;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;-1;1;M. Traore
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;E. Zemoura;1;9;0,15;1,15;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-1;0;2;E. Zemoura
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;M. Lokoka;1;9;0,15;1,15;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-1;1;3;M. Lokoka
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;A. Brun;1;35;0,58;1,58;0;1;0;0;0;;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-2;-1;4;A. Brun
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;S. Caetano;1;9;0,15;1,15;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;1;1;0;0;0;0;0;0;0;-1;1;8;S. Caetano
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;E. Naigre;19;25;0,42;19,42;3;7;0,428571429;2;5;0,4;1;2;0,5;0;0;;;;;;;;;7;1;2;3;0;1;0;1;0;4;1;5;6;13;E. Naigre
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;M. Toure;26;33;0,55;26,55;1;7;0,142857143;0;3;0;1;4;0,25;0;0;;;;;;;;;3;0;1;1;2;2;5;0;0;2;0;12;3;28;M. Toure
+15;Championat de France;Domicile;Victoire;Saint-Amand;;Banc;TOTAUX EQUIPE;;;;;27;64;0,421875;20;43;0,465116279;7;21;0,333333333;10;12;0,833333333;24;36;18;11;10;21;12;71;13;28;41;18;12;9;6;2;13;15;0;94;;TOTAUX EQUIPE
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;E. Naigre;29;38;0,63;29,63;0;3;0;0;2;0;0;1;0;2;2;1;;;;;;;;2;0;4;4;4;1;0;0;0;2;2;-15;6;13;E. Naigre
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;A. Alston;30;0;0;30;3;12;0,25;1;8;0,125;2;4;0,5;0;0;;;;;;;;;8;0;0;0;0;3;3;0;0;2;5;-22;-1;22;A. Alston
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;A. Jenkins;31;56;0,93;31,93;8;16;0,5;7;14;0,5;1;2;0,5;0;0;;;;;;;;;17;8;8;16;1;4;3;1;1;3;0;-11;26;24;A. Jenkins
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Starter;G. Rabot;20;27;0,45;20,45;0;3;0;0;2;0;0;1;0;0;0;;;;;;;;;0;3;0;3;1;2;2;0;0;4;0;-14;1;26;G. Rabot
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;Capitaine;Starter;R. Bernies;32;8;0,13;32,13;8;13;0,615384615;2;3;0,666666667;6;10;0,6;5;5;1;;;;;;;;27;0;2;2;2;0;1;1;0;1;4;-6;28;47;R. Bernies(C)
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;E. Zemoura;7;26;0,43;7,43;0;1;0;0;0;;0;1;0;0;2;0;;;;;;;;0;1;1;2;1;0;1;0;0;1;1;-7;1;2;E. Zemoura
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;A. Brun;1;47;0,78;1,78;0;0;;0;0;;0;0;;2;2;1;;;;;;;;2;0;0;0;0;0;0;0;0;0;1;-2;2;4;A. Brun
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;S. Caetano;17;19;0,32;17,32;2;4;0,5;2;4;0,5;0;0;;0;0;;;;;;;;;4;2;2;4;1;0;0;0;1;0;0;1;7;8;S. Caetano
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;M. Toure;29;19;0,32;29,32;5;17;0,294117647;3;10;0,3;2;7;0,285714286;2;4;0,5;;;;;;;;14;0;0;0;1;1;4;0;0;4;4;-14;4;28;M. Toure
+16;Championat de France;Exterieur;Defaite;Lyon Asvel Féminin;;Banc;TOTAUX EQUIPE;;;;;26;69;0,376811594;15;43;0,348837209;11;26;0,423076923;11;15;0,733333333;20;26;10;2;20;7;6;74;15;17;32;11;11;14;2;2;17;17;0;75;;TOTAUX EQUIPE
+17;Championat de France;Domicile;Victoire;Basket Landes;;Starter;E. Naigre;41;45;0,75;41,75;7;15;0,466666667;5;10;0,5;2;5;0,4;0;0;;;;;;;;;16;2;10;12;7;1;0;1;0;3;2;-2;27;13;E. Naigre
+17;Championat de France;Domicile;Victoire;Basket Landes;;Starter;A. Alston;40;35;0,58;40,58;5;14;0,357142857;5;10;0,5;0;4;0;4;4;1;;;;;;;;14;0;2;2;4;5;0;0;1;3;3;9;6;22;A. Alston
+17;Championat de France;Domicile;Victoire;Basket Landes;;Starter;G. Rabot;42;32;0,53;42,53;8;12;0,666666667;5;8;0,625;3;4;0,75;3;5;0,6;;;;;;;;22;3;10;13;5;3;6;0;0;2;4;9;37;26;G. Rabot
+17;Championat de France;Domicile;Victoire;Basket Landes;;Starter;M. Toure;27;35;0,58;27,58;1;4;0,25;0;1;0;1;3;0,333333333;1;2;0,5;;;;;;;;4;0;1;1;3;3;1;1;0;2;1;-1;3;28;M. Toure
+17;Championat de France;Domicile;Victoire;Basket Landes;Capitaine;Starter;R. Bernies;40;21;0,35;40,35;4;12;0,333333333;2;7;0,285714286;2;5;0,4;3;3;1;;;;;;;;13;0;2;2;5;4;1;0;0;3;2;7;9;47;R. Bernies(C)
+17;Championat de France;Domicile;Victoire;Basket Landes;;Banc;M. Traore;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Traore
+17;Championat de France;Domicile;Victoire;Basket Landes;;Banc;E. Zemoura;23;57;0,95;23,95;1;4;0,25;1;1;1;0;3;0;3;6;0,5;;;;;;;;5;0;3;3;0;4;0;0;0;4;3;9;-2;2;E. Zemoura
+17;Championat de France;Domicile;Victoire;Basket Landes;;Banc;L. Djoko;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;3;L. Djoko
+17;Championat de France;Domicile;Victoire;Basket Landes;;Banc;A. Brun;4;59;0,98;4,98;1;1;1;0;0;;1;1;1;0;0;;;;;;;;;3;0;0;0;0;0;0;0;0;0;0;0;3;4;A. Brun
+17;Championat de France;Domicile;Victoire;Basket Landes;;Banc;S. Caetano;3;16;0,27;3,27;0;2;0;0;2;0;0;0;;0;2;0;;;;;;;;0;0;0;0;0;0;1;0;0;0;1;-6;-3;8;S. Caetano
+17;Championat de France;Domicile;Victoire;Basket Landes;;Banc;TOTAUX EQUIPE;;;;;27;64;0,421875;18;39;0,461538462;9;25;0,36;14;22;0,636363636;20;34;7;9;8;9;14;77;6;29;35;24;20;9;2;1;17;16;0;82;;TOTAUX EQUIPE
+18;Championat de France;Domicile;Defaite;Angers;;Starter;E. Naigre;24;26;0,43;24,43;3;8;0,375;1;3;0,333333333;2;5;0,4;2;3;0,666666667;;;;;;;;10;1;4;5;1;3;0;1;0;4;3;-13;8;13;E. Naigre
+18;Championat de France;Domicile;Defaite;Angers;;Starter;A. Jenkins;15;53;0,88;15,88;2;6;0,333333333;2;5;0,4;0;1;0;3;5;0,6;;;;;;;;7;3;4;7;0;5;1;0;0;0;4;-3;4;24;A. Jenkins
+18;Championat de France;Domicile;Defaite;Angers;;Starter;G. Rabot;32;33;0,55;32,55;2;7;0,285714286;2;6;0,333333333;0;1;0;0;0;;;;;;;;;4;0;4;4;5;3;3;0;1;3;1;-2;8;26;G. Rabot
+18;Championat de France;Domicile;Defaite;Angers;;Starter;M. Toure;34;49;0,82;34,82;6;13;0,461538462;3;8;0,375;3;5;0,6;6;6;1;;;;;;;;21;0;1;1;3;4;2;0;0;1;3;-14;16;28;M. Toure
+18;Championat de France;Domicile;Defaite;Angers;Capitaine;Starter;R. Bernies;37;2;0,03;37,03;4;9;0,444444444;1;5;0,2;3;4;0,75;0;0;;;;;;;;;11;0;3;3;8;2;1;0;0;4;2;-10;16;47;R. Bernies(C)
+18;Championat de France;Domicile;Defaite;Angers;;Banc;M. Traore;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Traore
+18;Championat de France;Domicile;Defaite;Angers;;Banc;E. Zemoura;10;21;0,35;10,35;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;1;2;1;1;0;0;0;2;0;-5;2;2;E. Zemoura
+18;Championat de France;Domicile;Defaite;Angers;;Banc;A. Brun;3;50;0,83;3,83;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-12;0;4;A. Brun
+18;Championat de France;Domicile;Defaite;Angers;;Banc;S. Caetano;0;58;0,97;0,97;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-6;0;8;S. Caetano
+18;Championat de France;Domicile;Defaite;Angers;;Banc;A. Alston;25;3;0,05;25,05;2;7;0,285714286;1;4;0,25;1;3;0,333333333;0;0;;;;;;;;;5;0;3;3;0;3;0;0;1;2;1;-17;0;22;A. Alston
+18;Championat de France;Domicile;Defaite;Angers;;Banc;K. Linskens;15;6;0,1;15,1;2;5;0,4;2;5;0,4;0;0;;0;0;;;;;;;;;4;1;2;3;1;2;0;0;0;1;0;-18;3;31;K. Linskens
+18;Championat de France;Domicile;Defaite;Angers;;Banc;TOTAUX EQUIPE;;;;;21;55;0,381818182;12;36;0,333333333;9;19;0,473684211;11;14;0,785714286;9;20;0;14;9;3;12;62;6;30;36;19;23;7;1;2;18;14;0;65;;TOTAUX EQUIPE
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Starter;E. Naigre;32;57;0,95;32,95;8;13;0,615384615;5;8;0,625;3;5;0,6;0;0;;;;;;;;;19;0;0;0;1;2;0;0;1;2;4;-5;13;13;E. Naigre
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Starter;A. Alston;31;25;0,42;31,42;2;6;0,333333333;2;3;0,666666667;0;3;0;6;7;0,857142857;;;;;;;;10;1;2;3;5;3;0;0;0;1;4;14;10;22;A. Alston
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Starter;A. Jenkins;30;57;0,95;30,95;1;4;0,25;0;1;0;1;3;0,333333333;4;4;1;;;;;;;;7;2;6;8;0;0;2;0;1;2;2;7;14;24;A. Jenkins
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Starter;G. Rabot;27;16;0,27;27,27;3;4;0,75;2;3;0,666666667;1;1;1;4;4;1;;;;;;;;11;2;5;7;1;3;4;0;0;0;3;16;19;26;G. Rabot
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Starter;M. Toure;31;4;0,07;31,07;5;10;0,5;4;7;0,571428571;1;3;0,333333333;0;0;;;;;;;;;11;1;3;4;7;3;1;0;0;4;1;11;15;28;M. Toure
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;M. Lokoka;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;M. Lokoka
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;E. Zemoura;3;17;0,28;3,28;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;1;0;0;0;0;1;0;-1;0;2;E. Zemoura
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;L. Djoko;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;L. Djoko
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;S. Caetano;7;21;0,35;7,35;2;2;1;2;2;1;0;0;;3;3;1;;;;;;;;7;0;0;0;0;0;0;0;0;0;2;-5;7;8;S. Caetano
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;Capitaine;Banc;R. Bernies;35;43;0,72;35,72;5;12;0,416666667;4;6;0,666666667;1;6;0,166666667;3;4;0,75;;;;;;;;14;0;2;2;6;4;3;0;0;2;4;8;13;47;R. Bernies(C)
+19;Championat de France;Exterieur;Victoire;Charleville-Mézières;;Banc;TOTAUX EQUIPE;;;;;26;52;0,5;19;31;0,612903226;7;21;0,333333333;20;22;0,909090909;21;26;2;14;21;11;13;79;7;22;29;21;17;10;0;2;12;20;0;94;;TOTAUX EQUIPE
+20;Championat de France;Domicile;Victoire;Tarbes;;Starter;E. Naigre;32;37;0,62;32,62;;;;2;5;0,4;3;5;0,6;1;1;1;;;;;;;;14;0;5;5;4;4;1;1;0;3;1;13;16;13;E. Naigre
+20;Championat de France;Domicile;Victoire;Tarbes;;Starter;A. Alston;32;23;0,38;32,38;;;;3;10;0,3;2;5;0,4;2;4;0,5;;;;;;;;14;1;3;4;6;2;2;0;1;1;3;25;12;22;A. Alston
+20;Championat de France;Domicile;Victoire;Tarbes;;Starter;G. Rabot;30;51;0,85;30,85;6;11;0,545454545;5;9;0,555555556;1;2;0,5;0;0;;;;;;;;;13;1;5;6;1;1;2;0;0;3;0;19;16;26;G. Rabot
+20;Championat de France;Domicile;Victoire;Tarbes;;Starter;M. Toure;28;11;0,18;28,18;;;;2;4;0,5;5;5;1;0;0;;;;;;;;;19;2;4;6;4;1;1;0;0;1;0;16;27;28;M. Toure
+20;Championat de France;Domicile;Victoire;Tarbes;Capitaine;Starter;R. Bernies;35;9;0,15;35,15;;;;5;6;0,833333333;0;2;0;0;0;;;;;;;;;10;0;1;1;5;1;1;0;0;3;2;24;13;47;R. Bernies(C)
+20;Championat de France;Domicile;Victoire;Tarbes;;Banc;M. Traore;0;57;0,95;0,95;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;1;M. Traore
+20;Championat de France;Domicile;Victoire;Tarbes;;Banc;E. Zemoura;7;60;1;8;;;;1;2;0,5;0;0;;0;0;;;;;;;;;2;1;2;3;1;1;0;0;0;0;0;3;4;2;E. Zemoura
+20;Championat de France;Domicile;Victoire;Tarbes;;Banc;L. Djoko;0;57;0,95;0,95;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;2;0;3;L. Djoko
+20;Championat de France;Domicile;Victoire;Tarbes;;Banc;S. Caetano;4;54;0,9;4,9;1;3;0,333333333;1;3;0,333333333;0;0;;0;0;;;;;;;;;2;1;1;2;1;2;1;0;0;2;0;-2;2;8;S. Caetano
+20;Championat de France;Domicile;Victoire;Tarbes;;Banc;A. Brun;1;37;0,62;1,62;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;2;-2;11;A. Brun
+20;Championat de France;Domicile;Victoire;Tarbes;;Banc;A. Jenkins;24;26;0,43;24,43;2;10;0,2;2;8;0,25;0;2;0;4;5;0,8;;;;;;;;8;3;7;10;5;3;4;1;0;1;5;16;16;24;A. Jenkins
+20;Championat de France;Domicile;Victoire;Tarbes;;Banc;TOTAUX EQUIPE;;;;;32;69;0,463768116;21;48;0,4375;11;21;0,523809524;7;10;0,7;20;26;9;20;12;25;10;82;12;32;44;27;18;12;2;1;14;11;0;109;;TOTAUX EQUIPE
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;E. Naigre;34;49;0,82;34,82;7;14;0,5;7;10;0,7;0;4;0;4;4;1;;;;;;;;18;2;5;7;4;0;2;1;0;2;3;-3;25;13;E. Naigre
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;A. Alston;29;59;0,98;29,98;4;12;0,333333333;0;5;0;4;7;0,571428571;2;2;1;;;;;;;;14;3;4;7;2;2;2;0;1;1;1;12;15;22;A. Alston
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;G. Rabot;32;5;0,08;32,08;6;9;0,666666667;4;5;0,8;2;4;0,5;2;2;1;;;;;;;;16;1;7;8;5;0;3;1;0;3;3;10;30;26;G. Rabot
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Starter;M. Toure;31;42;0,7;31,7;6;15;0,4;4;9;0,444444444;2;6;0,333333333;0;0;;;;;;;;;14;0;4;4;3;0;1;0;0;2;2;-1;13;28;M. Toure
+21;Championat de France;Exterieur;Victoire;Roche Vendée;Capitaine;Starter;R. Bernies;39;7;0,12;39,12;6;18;0,333333333;2;7;0,285714286;4;11;0,363636364;1;2;0,5;;;;;;;;17;1;0;1;6;2;4;0;0;0;2;3;13;47;R. Bernies(C)
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;A. Brun;2;8;0,13;2,13;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;4;0;1;A. Brun
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;E. Zemoura;14;43;0,72;14,72;1;2;0,5;1;2;0,5;0;0;;0;0;;;;;;;;;2;1;2;3;0;2;1;0;0;4;0;-4;3;2;E. Zemoura
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;L. Djoko;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;L. Djoko
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;S. Caetano;15;27;0,45;15,45;2;6;0,333333333;2;4;0,5;0;2;0;2;3;0,666666667;;;;;;;;6;2;1;3;0;1;1;1;0;0;1;-6;5;8;S. Caetano
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;M. Traore;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;23;M. Traore
+21;Championat de France;Exterieur;Victoire;Roche Vendée;;Banc;TOTAUX EQUIPE;;;;;32;76;0,421052632;20;42;0,476190476;12;34;0,352941176;11;13;0,846153846;19;34;14;8;8;4;10;87;10;25;35;20;7;14;3;1;12;12;0;106;;TOTAUX EQUIPE
+22;Championat de France;Domicile;Defaite;Bourges;;Starter;E. Naigre;32;51;0,85;32,85;6;12;0,5;3;7;0,428571429;3;5;0,6;0;0;;;;;;;;;15;0;4;4;0;3;3;0;0;4;1;-26;13;13;E. Naigre
+22;Championat de France;Domicile;Defaite;Bourges;;Starter;A. Alston;30;22;0,37;30,37;7;11;0,636363636;5;7;0,714285714;2;4;0,5;1;2;0,5;;;;;;;;17;0;1;1;0;1;1;0;0;0;3;-21;13;22;A. Alston
+22;Championat de France;Domicile;Defaite;Bourges;;Starter;G. Rabot;30;58;0,97;30,97;2;8;0,25;2;6;0,333333333;0;2;0;1;2;0,5;;;;;;;;5;1;2;3;3;1;1;0;0;3;1;-26;4;26;G. Rabot
+22;Championat de France;Domicile;Defaite;Bourges;;Starter;M. Toure;26;46;0,77;26,77;2;7;0,285714286;2;3;0,666666667;0;4;0;3;3;1;;;;;;;;7;1;4;5;5;2;1;0;0;2;3;-21;11;28;M. Toure
+22;Championat de France;Domicile;Defaite;Bourges;Capitaine;Starter;R. Bernies;28;23;0,38;28,38;3;9;0,333333333;1;2;0,5;2;7;0,285714286;0;0;;;;;;;;;8;1;0;1;3;3;0;0;0;1;3;-26;3;47;R. Bernies(C)
+22;Championat de France;Domicile;Defaite;Bourges;;Banc;M. Traore;3;22;0,37;3,37;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;1;0;0;0;0;0;-1;-1;1;M. Traore
+22;Championat de France;Domicile;Defaite;Bourges;;Banc;E. Zemoura;12;41;0,68;12,68;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;1;0;1;3;0;0;0;0;4;0;-11;3;2;E. Zemoura
+22;Championat de France;Domicile;Defaite;Bourges;;Banc;L. Djoko;6;22;0,37;6,37;1;1;1;1;1;1;0;0;;0;0;;;;;;;;;2;0;0;0;0;2;0;0;0;3;0;-5;0;3;L. Djoko
+22;Championat de France;Domicile;Defaite;Bourges;;Banc;A. Brun;12;45;0,75;12,75;1;3;0,333333333;1;2;0,5;0;1;0;0;0;;;;;;;;;2;0;0;0;1;1;0;0;0;0;0;-20;0;4;A. Brun
+22;Championat de France;Domicile;Defaite;Bourges;;Banc;S. Caetano;15;30;0,5;15,5;0;5;0;0;3;0;0;2;0;2;4;0,5;;;;;;;;2;0;0;0;0;0;0;0;1;2;2;-8;-5;8;S. Caetano
+22;Championat de France;Domicile;Defaite;Bourges;;Banc;TOTAUX EQUIPE;;;;;22;57;0,385964912;15;32;0,46875;7;25;0,28;7;11;0,636363636;10;22;6;10;6;;6;58;4;14;18;15;14;6;0;1;19;13;0;44;;TOTAUX EQUIPE
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Starter;E. Naigre;33;57;0,95;33,95;5;11;0,454545455;2;5;0,4;3;6;0,5;2;2;1;;;;;;;;15;0;5;5;4;4;0;0;0;2;1;9;14;13;E. Naigre
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Starter;A. Jenkins;32;5;0,08;32,08;3;7;0,428571429;2;6;0,333333333;1;1;1;6;8;0,75;;;;;;;;13;2;9;11;2;1;3;0;0;3;5;19;22;24;A. Jenkins
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Starter;G. Rabot;17;59;0,98;17,98;1;3;0,333333333;1;3;0,333333333;0;0;;0;0;;;;;;;;;2;1;2;3;0;2;5;0;0;5;1;3;6;26;G. Rabot
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Starter;M. Toure;35;18;0,3;35,3;4;8;0,5;2;5;0,4;2;3;0,666666667;2;2;1;;;;;;;;12;0;1;1;3;3;1;0;1;4;1;22;10;28;M. Toure
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;Capitaine;Starter;R. Bernies;37;16;0,27;37,27;4;6;0,666666667;1;1;1;3;5;0,6;2;2;1;;;;;;;;13;0;6;6;5;1;1;0;0;2;4;20;22;47;R. Bernies(C)
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Banc;A. Brun;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;A. Brun
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Banc;E. Zemoura;1;54;0,9;1,9;0;1;0;0;1;0;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;-8;-1;2;E. Zemoura
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Banc;L. Djoko;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;4;L. Djoko
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Banc;S. Caetano;5;59;0,98;5,98;0;1;0;0;1;0;0;0;;2;2;1;;;;;;;;2;0;1;1;0;0;1;0;0;0;1;1;3;8;S. Caetano
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Banc;A. Alston;35;32;0,53;35,53;7;15;0,466666667;4;8;0,5;3;7;0,428571429;3;4;0,75;;;;;;;;20;1;2;3;4;2;0;0;2;0;5;9;16;22;A. Alston
+1/4 finale Aller;Playoff;Exterieur;Victoire;Charnay;;Banc;TOTAUX EQUIPE;;;;;24;52;0,461538462;12;30;0,4;12;22;0,545454545;17;20;0,85;17;20;7;4;22;22;13;77;5;30;35;18;15;11;0;3;16;18;0;95;;TOTAUX EQUIPE
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Starter;E. Naigre;35;46;0,77;35,77;11;13;0,846153846;9;10;0,9;2;3;0,666666667;2;2;1;;;;;;;;26;2;7;9;2;4;0;0;0;3;2;-10;31;13;E. Naigre
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Starter;A. Alston;32;8;0,13;32,13;5;13;0,384615385;5;11;0,454545455;0;2;0;5;6;0,833333333;;;;;;;;15;3;0;3;1;2;0;0;1;1;7;-8;8;22;A. Alston
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Starter;A. Jenkins;32;2;0,03;32,03;1;5;0,2;1;3;0,333333333;0;2;0;3;5;0,6;;;;;;;;5;1;3;4;2;1;0;0;0;3;4;-13;4;24;A. Jenkins
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Starter;M. Toure;30;36;0,6;30,6;1;3;0,333333333;1;2;0,5;0;1;0;2;3;0,666666667;;;;;;;;4;0;3;3;1;5;1;1;0;2;3;-6;2;28;M. Toure
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;Capitaine;Starter;R. Bernies;36;28;0,47;36,47;1;7;0,142857143;0;3;0;1;4;0,25;2;2;1;;;;;;;;5;0;4;4;11;8;1;0;0;3;6;-7;7;47;R. Bernies(C)
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Banc;E. Zemoura;2;56;0,93;2,93;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;3;0;2;E. Zemoura
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Banc;L. Djoko;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;3;L. Djoko
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Banc;A. Brun;0;5;0,08;0,08;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;1;0;0;4;A. Brun
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Banc;S. Caetano;5;20;0,33;5,33;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;1;0;-3;0;8;S. Caetano
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Banc;G. Rabot;24;39;0,65;24,65;3;5;0,6;3;5;0,6;0;0;;3;4;0,75;;;;;;;;9;0;3;3;1;0;2;0;0;4;3;-11;12;26;G. Rabot
+1/4 finale Retour;Playoff;Domicile;Defaite;Charnay;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;22;46;0,47826087;19;34;0,558823529;3;12;0,25;17;22;0,772727273;9;28;10;4;9;5;5;64;7;22;29;18;20;4;1;1;17;26;0;67;;TOTAUX EQUIPE
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Starter;E. Naigre;34;6;0,1;34,1;5;16;0,3125;2;8;0,25;3;8;0,375;1;2;0,5;;;;;;;;14;0;2;2;0;2;3;1;0;4;5;-31;6;13;E. Naigre
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Starter;A. Alston;27;23;0,38;27,38;5;10;0,5;2;5;0,4;3;5;0,6;2;2;1;;;;;;;;15;1;2;3;2;2;0;0;0;1;2;-23;13;22;A. Alston
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Starter;A. Jenkins;21;17;0,28;21,28;2;7;0,285714286;2;6;0,333333333;0;1;0;3;6;0,5;;;;;;;;7;4;1;5;3;4;0;0;2;3;4;-19;3;24;A. Jenkins
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Starter;G. Rabot;28;26;0,43;28,43;1;5;0,2;1;3;0,333333333;0;2;0;0;0;;;;;;;;;2;2;3;5;2;0;1;0;0;2;2;-27;6;26;G. Rabot
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;Capitaine;Starter;R. Bernies;36;24;0,4;36,4;4;13;0,307692308;2;4;0,5;2;9;0,222222222;3;3;1;;;;;;;;13;2;0;2;7;1;4;0;0;4;2;-21;16;47;R. Bernies(C)
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;L. Djoko;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;1;L. Djoko
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;M. Lokoka;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;2;M. Lokoka
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;T. Kakova;0;0;0;0;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;3;T. Kakova
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;A. Brun;1;2;0,03;1,03;0;2;0;0;1;0;0;1;0;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;0;0;3;-2;4;A. Brun
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;S. Caetano;1;38;0,63;1,63;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;0;0;0;0;0;0;0;0;2;0;-4;0;8;S. Caetano
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;M. Toure;28;35;0,58;28,58;2;8;0,25;1;4;0,25;1;4;0,25;3;4;0,75;;;;;;;;8;2;0;2;2;4;2;0;0;2;3;-25;3;28;M. Toure
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;K. Linskens;21;10;0,17;21,17;2;5;0,4;2;4;0,5;0;1;0;1;2;0,5;;;;;;;;5;0;7;7;0;0;0;0;0;1;1;-8;8;31;K. Linskens
+1/2 finale Aller;Playoff;Domicile;Defaite;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;21;66;0,318181818;12;35;0,342857143;9;31;0,290322581;13;19;0,684210526;16;22;8;6;13;;9;64;14;17;31;16;13;10;1;2;19;19;0;58;;TOTAUX EQUIPE
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;E. Naigre;23;9;0,15;23,15;3;9;0,333333333;2;7;0,285714286;1;2;0,5;1;1;1;;;;;;;;8;1;1;2;6;3;0;0;0;3;2;-11;7;13;E. Naigre
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;A. Alston;31;54;0,9;31,9;8;13;0,615384615;7;11;0,636363636;1;2;0,5;5;5;1;;;;;;;;22;0;1;1;2;1;0;0;1;4;3;-30;19;22;A. Alston
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;A. Jenkins;29;24;0,4;29,4;3;6;0,5;2;5;0,4;1;1;1;2;2;1;;;;;;;;9;1;3;4;5;0;2;0;0;3;2;-21;17;24;A. Jenkins
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Starter;G. Rabot;24;37;0,62;24,62;2;9;0,222222222;2;6;0,333333333;0;3;0;3;4;0,75;;;;;;;;7;0;6;6;3;0;2;0;0;1;4;-12;10;26;G. Rabot
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;Capitaine;Starter;R. Bernies;33;40;0,67;33,67;4;12;0,333333333;1;4;0,25;3;8;0,375;0;0;;;;;;;;;11;0;3;3;3;5;1;0;0;1;3;-15;5;47;R. Bernies(C)
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;M. Lokoka;3;31;0,52;3,52;0;0;;0;0;;0;0;;0;0;;;;;;;;;0;1;1;2;0;0;0;0;0;0;0;-10;2;1;M. Lokoka
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;L. Djoko;3;31;0,52;3,52;0;3;0;0;3;0;0;0;;1;2;0,5;;;;;;;;1;0;2;2;0;0;0;0;0;1;1;-10;-1;4;L. Djoko
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;S. Caetano;9;18;0,3;9,3;0;4;0;0;3;0;0;1;0;0;0;;;;;;;;;0;1;0;1;0;0;0;0;1;3;1;-26;-3;8;S. Caetano
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;M. Toure;20;32;0,53;20,53;2;8;0,25;1;3;0,333333333;1;5;0,2;0;1;0;;;;;;;;5;0;1;1;1;2;2;0;0;1;1;-25;0;28;M. Toure
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;K. Linskens;20;25;0,42;20,42;2;4;0,5;2;4;0,5;0;0;;0;0;;;;;;;;;4;0;2;2;3;0;0;0;0;4;0;-20;7;31;K. Linskens
+1/2 finale Retour;Playoff;Exterieur;Defaite;Villeneuve d'Ascq;;Banc;TOTAUX EQUIPE;ERREUR;ERREUR;ERREUR;ERREUR;24;68;0,352941176;17;46;0,369565217;7;22;0,318181818;12;15;0,8;17;30;3;14;10;14;9;67;7;21;28;23;12;7;0;2;21;17;0;66;;TOTAUX EQUIPE
